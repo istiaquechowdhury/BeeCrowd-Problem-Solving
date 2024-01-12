@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\BanknotesAndCoins\bin\Debug\net7.0\BanknotesAndCoins.exe
+C:\Users\DCL\source\repos\HelloWorld\BanknotesAndCoins\bin\Debug\net7.0\BanknotesAndCoins.deps.json
+C:\Users\DCL\source\repos\HelloWorld\BanknotesAndCoins\bin\Debug\net7.0\BanknotesAndCoins.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\BanknotesAndCoins\bin\Debug\net7.0\BanknotesAndCoins.dll
+C:\Users\DCL\source\repos\HelloWorld\BanknotesAndCoins\bin\Debug\net7.0\BanknotesAndCoins.pdb
+C:\Users\DCL\source\repos\HelloWorld\BanknotesAndCoins\obj\Debug\net7.0\BanknotesAndCoins.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\BanknotesAndCoins\obj\Debug\net7.0\BanknotesAndCoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\BanknotesAndCoins\obj\Debug\net7.0\BanknotesAndCoins.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\BanknotesAndCoins\obj\Debug\net7.0\BanknotesAndCoins.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\BanknotesAndCoins\obj\Debug\net7.0\BanknotesAndCoins.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\BanknotesAndCoins\obj\Debug\net7.0\BanknotesAndCoins.dll
+C:\Users\DCL\source\repos\HelloWorld\BanknotesAndCoins\obj\Debug\net7.0\refint\BanknotesAndCoins.dll
+C:\Users\DCL\source\repos\HelloWorld\BanknotesAndCoins\obj\Debug\net7.0\BanknotesAndCoins.pdb
+C:\Users\DCL\source\repos\HelloWorld\BanknotesAndCoins\obj\Debug\net7.0\BanknotesAndCoins.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\BanknotesAndCoins\obj\Debug\net7.0\ref\BanknotesAndCoins.dll

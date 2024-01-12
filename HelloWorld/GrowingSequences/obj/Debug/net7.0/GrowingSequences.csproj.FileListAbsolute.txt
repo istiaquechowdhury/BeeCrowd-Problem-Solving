@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\GrowingSequences\bin\Debug\net7.0\GrowingSequences.exe
+C:\Users\DCL\source\repos\HelloWorld\GrowingSequences\bin\Debug\net7.0\GrowingSequences.deps.json
+C:\Users\DCL\source\repos\HelloWorld\GrowingSequences\bin\Debug\net7.0\GrowingSequences.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\GrowingSequences\bin\Debug\net7.0\GrowingSequences.dll
+C:\Users\DCL\source\repos\HelloWorld\GrowingSequences\bin\Debug\net7.0\GrowingSequences.pdb
+C:\Users\DCL\source\repos\HelloWorld\GrowingSequences\obj\Debug\net7.0\GrowingSequences.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\GrowingSequences\obj\Debug\net7.0\GrowingSequences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\GrowingSequences\obj\Debug\net7.0\GrowingSequences.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\GrowingSequences\obj\Debug\net7.0\GrowingSequences.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\GrowingSequences\obj\Debug\net7.0\GrowingSequences.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\GrowingSequences\obj\Debug\net7.0\GrowingSequences.dll
+C:\Users\DCL\source\repos\HelloWorld\GrowingSequences\obj\Debug\net7.0\refint\GrowingSequences.dll
+C:\Users\DCL\source\repos\HelloWorld\GrowingSequences\obj\Debug\net7.0\GrowingSequences.pdb
+C:\Users\DCL\source\repos\HelloWorld\GrowingSequences\obj\Debug\net7.0\GrowingSequences.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\GrowingSequences\obj\Debug\net7.0\ref\GrowingSequences.dll

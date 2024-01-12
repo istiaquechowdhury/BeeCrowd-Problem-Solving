@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\Remaining2\bin\Debug\net7.0\Remaining2.exe
+C:\Users\DCL\source\repos\HelloWorld\Remaining2\bin\Debug\net7.0\Remaining2.deps.json
+C:\Users\DCL\source\repos\HelloWorld\Remaining2\bin\Debug\net7.0\Remaining2.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\Remaining2\bin\Debug\net7.0\Remaining2.dll
+C:\Users\DCL\source\repos\HelloWorld\Remaining2\bin\Debug\net7.0\Remaining2.pdb
+C:\Users\DCL\source\repos\HelloWorld\Remaining2\obj\Debug\net7.0\Remaining2.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\Remaining2\obj\Debug\net7.0\Remaining2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\Remaining2\obj\Debug\net7.0\Remaining2.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Remaining2\obj\Debug\net7.0\Remaining2.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\Remaining2\obj\Debug\net7.0\Remaining2.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Remaining2\obj\Debug\net7.0\Remaining2.dll
+C:\Users\DCL\source\repos\HelloWorld\Remaining2\obj\Debug\net7.0\refint\Remaining2.dll
+C:\Users\DCL\source\repos\HelloWorld\Remaining2\obj\Debug\net7.0\Remaining2.pdb
+C:\Users\DCL\source\repos\HelloWorld\Remaining2\obj\Debug\net7.0\Remaining2.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\Remaining2\obj\Debug\net7.0\ref\Remaining2.dll

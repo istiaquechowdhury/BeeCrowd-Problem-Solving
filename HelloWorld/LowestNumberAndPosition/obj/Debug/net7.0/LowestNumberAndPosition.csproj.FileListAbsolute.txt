@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\LowestNumberAndPosition\bin\Debug\net7.0\LowestNumberAndPosition.exe
+C:\Users\DCL\source\repos\HelloWorld\LowestNumberAndPosition\bin\Debug\net7.0\LowestNumberAndPosition.deps.json
+C:\Users\DCL\source\repos\HelloWorld\LowestNumberAndPosition\bin\Debug\net7.0\LowestNumberAndPosition.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\LowestNumberAndPosition\bin\Debug\net7.0\LowestNumberAndPosition.dll
+C:\Users\DCL\source\repos\HelloWorld\LowestNumberAndPosition\bin\Debug\net7.0\LowestNumberAndPosition.pdb
+C:\Users\DCL\source\repos\HelloWorld\LowestNumberAndPosition\obj\Debug\net7.0\LowestNumberAndPosition.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\LowestNumberAndPosition\obj\Debug\net7.0\LowestNumberAndPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\LowestNumberAndPosition\obj\Debug\net7.0\LowestNumberAndPosition.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\LowestNumberAndPosition\obj\Debug\net7.0\LowestNumberAndPosition.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\LowestNumberAndPosition\obj\Debug\net7.0\LowestNumberAndPosition.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\LowestNumberAndPosition\obj\Debug\net7.0\LowestNumberAndPosition.dll
+C:\Users\DCL\source\repos\HelloWorld\LowestNumberAndPosition\obj\Debug\net7.0\refint\LowestNumberAndPosition.dll
+C:\Users\DCL\source\repos\HelloWorld\LowestNumberAndPosition\obj\Debug\net7.0\LowestNumberAndPosition.pdb
+C:\Users\DCL\source\repos\HelloWorld\LowestNumberAndPosition\obj\Debug\net7.0\LowestNumberAndPosition.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\LowestNumberAndPosition\obj\Debug\net7.0\ref\LowestNumberAndPosition.dll

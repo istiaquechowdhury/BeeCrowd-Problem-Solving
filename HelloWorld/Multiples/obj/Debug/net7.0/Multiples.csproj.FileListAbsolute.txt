@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\Multiples\bin\Debug\net7.0\Multiples.exe
+C:\Users\DCL\source\repos\HelloWorld\Multiples\bin\Debug\net7.0\Multiples.deps.json
+C:\Users\DCL\source\repos\HelloWorld\Multiples\bin\Debug\net7.0\Multiples.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\Multiples\bin\Debug\net7.0\Multiples.dll
+C:\Users\DCL\source\repos\HelloWorld\Multiples\bin\Debug\net7.0\Multiples.pdb
+C:\Users\DCL\source\repos\HelloWorld\Multiples\obj\Debug\net7.0\Multiples.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\Multiples\obj\Debug\net7.0\Multiples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\Multiples\obj\Debug\net7.0\Multiples.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Multiples\obj\Debug\net7.0\Multiples.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\Multiples\obj\Debug\net7.0\Multiples.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Multiples\obj\Debug\net7.0\Multiples.dll
+C:\Users\DCL\source\repos\HelloWorld\Multiples\obj\Debug\net7.0\refint\Multiples.dll
+C:\Users\DCL\source\repos\HelloWorld\Multiples\obj\Debug\net7.0\Multiples.pdb
+C:\Users\DCL\source\repos\HelloWorld\Multiples\obj\Debug\net7.0\Multiples.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\Multiples\obj\Debug\net7.0\ref\Multiples.dll

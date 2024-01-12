@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveOddNumbers\bin\Debug\net7.0\SumOfConsecutiveOddNumbers.exe
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveOddNumbers\bin\Debug\net7.0\SumOfConsecutiveOddNumbers.deps.json
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveOddNumbers\bin\Debug\net7.0\SumOfConsecutiveOddNumbers.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveOddNumbers\bin\Debug\net7.0\SumOfConsecutiveOddNumbers.dll
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveOddNumbers\bin\Debug\net7.0\SumOfConsecutiveOddNumbers.pdb
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveOddNumbers\obj\Debug\net7.0\SumOfConsecutiveOddNumbers.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveOddNumbers\obj\Debug\net7.0\SumOfConsecutiveOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveOddNumbers\obj\Debug\net7.0\SumOfConsecutiveOddNumbers.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveOddNumbers\obj\Debug\net7.0\SumOfConsecutiveOddNumbers.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveOddNumbers\obj\Debug\net7.0\SumOfConsecutiveOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveOddNumbers\obj\Debug\net7.0\SumOfConsecutiveOddNumbers.dll
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveOddNumbers\obj\Debug\net7.0\refint\SumOfConsecutiveOddNumbers.dll
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveOddNumbers\obj\Debug\net7.0\SumOfConsecutiveOddNumbers.pdb
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveOddNumbers\obj\Debug\net7.0\SumOfConsecutiveOddNumbers.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveOddNumbers\obj\Debug\net7.0\ref\SumOfConsecutiveOddNumbers.dll

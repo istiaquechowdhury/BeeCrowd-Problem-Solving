@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\SequenceOfNUmbersANdSUm\bin\Debug\net7.0\SequenceOfNUmbersANdSUm.exe
+C:\Users\DCL\source\repos\HelloWorld\SequenceOfNUmbersANdSUm\bin\Debug\net7.0\SequenceOfNUmbersANdSUm.deps.json
+C:\Users\DCL\source\repos\HelloWorld\SequenceOfNUmbersANdSUm\bin\Debug\net7.0\SequenceOfNUmbersANdSUm.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\SequenceOfNUmbersANdSUm\bin\Debug\net7.0\SequenceOfNUmbersANdSUm.dll
+C:\Users\DCL\source\repos\HelloWorld\SequenceOfNUmbersANdSUm\bin\Debug\net7.0\SequenceOfNUmbersANdSUm.pdb
+C:\Users\DCL\source\repos\HelloWorld\SequenceOfNUmbersANdSUm\obj\Debug\net7.0\SequenceOfNUmbersANdSUm.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\SequenceOfNUmbersANdSUm\obj\Debug\net7.0\SequenceOfNUmbersANdSUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\SequenceOfNUmbersANdSUm\obj\Debug\net7.0\SequenceOfNUmbersANdSUm.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SequenceOfNUmbersANdSUm\obj\Debug\net7.0\SequenceOfNUmbersANdSUm.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\SequenceOfNUmbersANdSUm\obj\Debug\net7.0\SequenceOfNUmbersANdSUm.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SequenceOfNUmbersANdSUm\obj\Debug\net7.0\SequenceOfNUmbersANdSUm.dll
+C:\Users\DCL\source\repos\HelloWorld\SequenceOfNUmbersANdSUm\obj\Debug\net7.0\refint\SequenceOfNUmbersANdSUm.dll
+C:\Users\DCL\source\repos\HelloWorld\SequenceOfNUmbersANdSUm\obj\Debug\net7.0\SequenceOfNUmbersANdSUm.pdb
+C:\Users\DCL\source\repos\HelloWorld\SequenceOfNUmbersANdSUm\obj\Debug\net7.0\SequenceOfNUmbersANdSUm.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\SequenceOfNUmbersANdSUm\obj\Debug\net7.0\ref\SequenceOfNUmbersANdSUm.dll

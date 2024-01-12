@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\AreaofACircle\bin\Debug\net7.0\AreaofACircle.exe
+C:\Users\DCL\source\repos\HelloWorld\AreaofACircle\bin\Debug\net7.0\AreaofACircle.deps.json
+C:\Users\DCL\source\repos\HelloWorld\AreaofACircle\bin\Debug\net7.0\AreaofACircle.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\AreaofACircle\bin\Debug\net7.0\AreaofACircle.dll
+C:\Users\DCL\source\repos\HelloWorld\AreaofACircle\bin\Debug\net7.0\AreaofACircle.pdb
+C:\Users\DCL\source\repos\HelloWorld\AreaofACircle\obj\Debug\net7.0\AreaofACircle.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\AreaofACircle\obj\Debug\net7.0\AreaofACircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\AreaofACircle\obj\Debug\net7.0\AreaofACircle.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\AreaofACircle\obj\Debug\net7.0\AreaofACircle.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\AreaofACircle\obj\Debug\net7.0\AreaofACircle.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\AreaofACircle\obj\Debug\net7.0\AreaofACircle.dll
+C:\Users\DCL\source\repos\HelloWorld\AreaofACircle\obj\Debug\net7.0\refint\AreaofACircle.dll
+C:\Users\DCL\source\repos\HelloWorld\AreaofACircle\obj\Debug\net7.0\AreaofACircle.pdb
+C:\Users\DCL\source\repos\HelloWorld\AreaofACircle\obj\Debug\net7.0\AreaofACircle.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\AreaofACircle\obj\Debug\net7.0\ref\AreaofACircle.dll

@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\EvenorODD\bin\Debug\net7.0\EvenorODD.exe
+C:\Users\DCL\source\repos\HelloWorld\EvenorODD\bin\Debug\net7.0\EvenorODD.deps.json
+C:\Users\DCL\source\repos\HelloWorld\EvenorODD\bin\Debug\net7.0\EvenorODD.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\EvenorODD\bin\Debug\net7.0\EvenorODD.dll
+C:\Users\DCL\source\repos\HelloWorld\EvenorODD\bin\Debug\net7.0\EvenorODD.pdb
+C:\Users\DCL\source\repos\HelloWorld\EvenorODD\obj\Debug\net7.0\EvenorODD.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\EvenorODD\obj\Debug\net7.0\EvenorODD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\EvenorODD\obj\Debug\net7.0\EvenorODD.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\EvenorODD\obj\Debug\net7.0\EvenorODD.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\EvenorODD\obj\Debug\net7.0\EvenorODD.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\EvenorODD\obj\Debug\net7.0\EvenorODD.dll
+C:\Users\DCL\source\repos\HelloWorld\EvenorODD\obj\Debug\net7.0\refint\EvenorODD.dll
+C:\Users\DCL\source\repos\HelloWorld\EvenorODD\obj\Debug\net7.0\EvenorODD.pdb
+C:\Users\DCL\source\repos\HelloWorld\EvenorODD\obj\Debug\net7.0\EvenorODD.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\EvenorODD\obj\Debug\net7.0\ref\EvenorODD.dll

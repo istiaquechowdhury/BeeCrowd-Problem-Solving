@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\SalaryWithBonus\bin\Debug\net7.0\SalaryWithBonus.exe
+C:\Users\DCL\source\repos\HelloWorld\SalaryWithBonus\bin\Debug\net7.0\SalaryWithBonus.deps.json
+C:\Users\DCL\source\repos\HelloWorld\SalaryWithBonus\bin\Debug\net7.0\SalaryWithBonus.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\SalaryWithBonus\bin\Debug\net7.0\SalaryWithBonus.dll
+C:\Users\DCL\source\repos\HelloWorld\SalaryWithBonus\bin\Debug\net7.0\SalaryWithBonus.pdb
+C:\Users\DCL\source\repos\HelloWorld\SalaryWithBonus\obj\Debug\net7.0\SalaryWithBonus.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\SalaryWithBonus\obj\Debug\net7.0\SalaryWithBonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\SalaryWithBonus\obj\Debug\net7.0\SalaryWithBonus.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SalaryWithBonus\obj\Debug\net7.0\SalaryWithBonus.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\SalaryWithBonus\obj\Debug\net7.0\SalaryWithBonus.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SalaryWithBonus\obj\Debug\net7.0\SalaryWithBonus.dll
+C:\Users\DCL\source\repos\HelloWorld\SalaryWithBonus\obj\Debug\net7.0\refint\SalaryWithBonus.dll
+C:\Users\DCL\source\repos\HelloWorld\SalaryWithBonus\obj\Debug\net7.0\SalaryWithBonus.pdb
+C:\Users\DCL\source\repos\HelloWorld\SalaryWithBonus\obj\Debug\net7.0\SalaryWithBonus.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\SalaryWithBonus\obj\Debug\net7.0\ref\SalaryWithBonus.dll

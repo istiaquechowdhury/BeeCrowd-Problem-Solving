@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\ColumnInArray\bin\Debug\net7.0\ColumnInArray.exe
+C:\Users\DCL\source\repos\HelloWorld\ColumnInArray\bin\Debug\net7.0\ColumnInArray.deps.json
+C:\Users\DCL\source\repos\HelloWorld\ColumnInArray\bin\Debug\net7.0\ColumnInArray.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\ColumnInArray\bin\Debug\net7.0\ColumnInArray.dll
+C:\Users\DCL\source\repos\HelloWorld\ColumnInArray\bin\Debug\net7.0\ColumnInArray.pdb
+C:\Users\DCL\source\repos\HelloWorld\ColumnInArray\obj\Debug\net7.0\ColumnInArray.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\ColumnInArray\obj\Debug\net7.0\ColumnInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\ColumnInArray\obj\Debug\net7.0\ColumnInArray.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\ColumnInArray\obj\Debug\net7.0\ColumnInArray.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\ColumnInArray\obj\Debug\net7.0\ColumnInArray.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\ColumnInArray\obj\Debug\net7.0\ColumnInArray.dll
+C:\Users\DCL\source\repos\HelloWorld\ColumnInArray\obj\Debug\net7.0\refint\ColumnInArray.dll
+C:\Users\DCL\source\repos\HelloWorld\ColumnInArray\obj\Debug\net7.0\ColumnInArray.pdb
+C:\Users\DCL\source\repos\HelloWorld\ColumnInArray\obj\Debug\net7.0\ColumnInArray.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\ColumnInArray\obj\Debug\net7.0\ref\ColumnInArray.dll

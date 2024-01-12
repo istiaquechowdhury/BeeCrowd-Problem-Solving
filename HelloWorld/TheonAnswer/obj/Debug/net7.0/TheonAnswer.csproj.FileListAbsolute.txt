@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\TheonAnswer\bin\Debug\net7.0\TheonAnswer.exe
+C:\Users\DCL\source\repos\HelloWorld\TheonAnswer\bin\Debug\net7.0\TheonAnswer.deps.json
+C:\Users\DCL\source\repos\HelloWorld\TheonAnswer\bin\Debug\net7.0\TheonAnswer.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\TheonAnswer\bin\Debug\net7.0\TheonAnswer.dll
+C:\Users\DCL\source\repos\HelloWorld\TheonAnswer\bin\Debug\net7.0\TheonAnswer.pdb
+C:\Users\DCL\source\repos\HelloWorld\TheonAnswer\obj\Debug\net7.0\TheonAnswer.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\TheonAnswer\obj\Debug\net7.0\TheonAnswer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\TheonAnswer\obj\Debug\net7.0\TheonAnswer.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\TheonAnswer\obj\Debug\net7.0\TheonAnswer.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\TheonAnswer\obj\Debug\net7.0\TheonAnswer.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\TheonAnswer\obj\Debug\net7.0\TheonAnswer.dll
+C:\Users\DCL\source\repos\HelloWorld\TheonAnswer\obj\Debug\net7.0\refint\TheonAnswer.dll
+C:\Users\DCL\source\repos\HelloWorld\TheonAnswer\obj\Debug\net7.0\TheonAnswer.pdb
+C:\Users\DCL\source\repos\HelloWorld\TheonAnswer\obj\Debug\net7.0\TheonAnswer.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\TheonAnswer\obj\Debug\net7.0\ref\TheonAnswer.dll

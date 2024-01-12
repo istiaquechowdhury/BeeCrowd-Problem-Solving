@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\Experiments\bin\Debug\net7.0\Experiments.exe
+C:\Users\DCL\source\repos\HelloWorld\Experiments\bin\Debug\net7.0\Experiments.deps.json
+C:\Users\DCL\source\repos\HelloWorld\Experiments\bin\Debug\net7.0\Experiments.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\Experiments\bin\Debug\net7.0\Experiments.dll
+C:\Users\DCL\source\repos\HelloWorld\Experiments\bin\Debug\net7.0\Experiments.pdb
+C:\Users\DCL\source\repos\HelloWorld\Experiments\obj\Debug\net7.0\Experiments.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\Experiments\obj\Debug\net7.0\Experiments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\Experiments\obj\Debug\net7.0\Experiments.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Experiments\obj\Debug\net7.0\Experiments.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\Experiments\obj\Debug\net7.0\Experiments.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Experiments\obj\Debug\net7.0\Experiments.dll
+C:\Users\DCL\source\repos\HelloWorld\Experiments\obj\Debug\net7.0\refint\Experiments.dll
+C:\Users\DCL\source\repos\HelloWorld\Experiments\obj\Debug\net7.0\Experiments.pdb
+C:\Users\DCL\source\repos\HelloWorld\Experiments\obj\Debug\net7.0\Experiments.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\Experiments\obj\Debug\net7.0\ref\Experiments.dll

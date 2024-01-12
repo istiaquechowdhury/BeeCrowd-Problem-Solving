@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\TypeOfFuel\bin\Debug\net7.0\TypeOfFuel.exe
+C:\Users\DCL\source\repos\HelloWorld\TypeOfFuel\bin\Debug\net7.0\TypeOfFuel.deps.json
+C:\Users\DCL\source\repos\HelloWorld\TypeOfFuel\bin\Debug\net7.0\TypeOfFuel.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\TypeOfFuel\bin\Debug\net7.0\TypeOfFuel.dll
+C:\Users\DCL\source\repos\HelloWorld\TypeOfFuel\bin\Debug\net7.0\TypeOfFuel.pdb
+C:\Users\DCL\source\repos\HelloWorld\TypeOfFuel\obj\Debug\net7.0\TypeOfFuel.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\TypeOfFuel\obj\Debug\net7.0\TypeOfFuel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\TypeOfFuel\obj\Debug\net7.0\TypeOfFuel.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\TypeOfFuel\obj\Debug\net7.0\TypeOfFuel.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\TypeOfFuel\obj\Debug\net7.0\TypeOfFuel.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\TypeOfFuel\obj\Debug\net7.0\TypeOfFuel.dll
+C:\Users\DCL\source\repos\HelloWorld\TypeOfFuel\obj\Debug\net7.0\refint\TypeOfFuel.dll
+C:\Users\DCL\source\repos\HelloWorld\TypeOfFuel\obj\Debug\net7.0\TypeOfFuel.pdb
+C:\Users\DCL\source\repos\HelloWorld\TypeOfFuel\obj\Debug\net7.0\TypeOfFuel.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\TypeOfFuel\obj\Debug\net7.0\ref\TypeOfFuel.dll

@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\OddNumbers\bin\Debug\net7.0\OddNumbers.exe
+C:\Users\DCL\source\repos\HelloWorld\OddNumbers\bin\Debug\net7.0\OddNumbers.deps.json
+C:\Users\DCL\source\repos\HelloWorld\OddNumbers\bin\Debug\net7.0\OddNumbers.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\OddNumbers\bin\Debug\net7.0\OddNumbers.dll
+C:\Users\DCL\source\repos\HelloWorld\OddNumbers\bin\Debug\net7.0\OddNumbers.pdb
+C:\Users\DCL\source\repos\HelloWorld\OddNumbers\obj\Debug\net7.0\OddNumbers.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\OddNumbers\obj\Debug\net7.0\OddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\OddNumbers\obj\Debug\net7.0\OddNumbers.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\OddNumbers\obj\Debug\net7.0\OddNumbers.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\OddNumbers\obj\Debug\net7.0\OddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\OddNumbers\obj\Debug\net7.0\OddNumbers.dll
+C:\Users\DCL\source\repos\HelloWorld\OddNumbers\obj\Debug\net7.0\refint\OddNumbers.dll
+C:\Users\DCL\source\repos\HelloWorld\OddNumbers\obj\Debug\net7.0\OddNumbers.pdb
+C:\Users\DCL\source\repos\HelloWorld\OddNumbers\obj\Debug\net7.0\OddNumbers.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\OddNumbers\obj\Debug\net7.0\ref\OddNumbers.dll

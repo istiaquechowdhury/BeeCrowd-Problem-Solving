@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\Grenais\bin\Debug\net7.0\Grenais.exe
+C:\Users\DCL\source\repos\HelloWorld\Grenais\bin\Debug\net7.0\Grenais.deps.json
+C:\Users\DCL\source\repos\HelloWorld\Grenais\bin\Debug\net7.0\Grenais.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\Grenais\bin\Debug\net7.0\Grenais.dll
+C:\Users\DCL\source\repos\HelloWorld\Grenais\bin\Debug\net7.0\Grenais.pdb
+C:\Users\DCL\source\repos\HelloWorld\Grenais\obj\Debug\net7.0\Grenais.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\Grenais\obj\Debug\net7.0\Grenais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\Grenais\obj\Debug\net7.0\Grenais.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Grenais\obj\Debug\net7.0\Grenais.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\Grenais\obj\Debug\net7.0\Grenais.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Grenais\obj\Debug\net7.0\Grenais.dll
+C:\Users\DCL\source\repos\HelloWorld\Grenais\obj\Debug\net7.0\refint\Grenais.dll
+C:\Users\DCL\source\repos\HelloWorld\Grenais\obj\Debug\net7.0\Grenais.pdb
+C:\Users\DCL\source\repos\HelloWorld\Grenais\obj\Debug\net7.0\Grenais.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\Grenais\obj\Debug\net7.0\ref\Grenais.dll

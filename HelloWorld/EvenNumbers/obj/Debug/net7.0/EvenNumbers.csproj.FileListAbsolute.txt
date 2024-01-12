@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\EvenNumbers\bin\Debug\net7.0\EvenNumbers.exe
+C:\Users\DCL\source\repos\HelloWorld\EvenNumbers\bin\Debug\net7.0\EvenNumbers.deps.json
+C:\Users\DCL\source\repos\HelloWorld\EvenNumbers\bin\Debug\net7.0\EvenNumbers.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\EvenNumbers\bin\Debug\net7.0\EvenNumbers.dll
+C:\Users\DCL\source\repos\HelloWorld\EvenNumbers\bin\Debug\net7.0\EvenNumbers.pdb
+C:\Users\DCL\source\repos\HelloWorld\EvenNumbers\obj\Debug\net7.0\EvenNumbers.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\EvenNumbers\obj\Debug\net7.0\EvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\EvenNumbers\obj\Debug\net7.0\EvenNumbers.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\EvenNumbers\obj\Debug\net7.0\EvenNumbers.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\EvenNumbers\obj\Debug\net7.0\EvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\EvenNumbers\obj\Debug\net7.0\EvenNumbers.dll
+C:\Users\DCL\source\repos\HelloWorld\EvenNumbers\obj\Debug\net7.0\refint\EvenNumbers.dll
+C:\Users\DCL\source\repos\HelloWorld\EvenNumbers\obj\Debug\net7.0\EvenNumbers.pdb
+C:\Users\DCL\source\repos\HelloWorld\EvenNumbers\obj\Debug\net7.0\EvenNumbers.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\EvenNumbers\obj\Debug\net7.0\ref\EvenNumbers.dll

@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\WelcomeToThewinter\bin\Debug\net7.0\WelcomeToThewinter.exe
+C:\Users\DCL\source\repos\HelloWorld\WelcomeToThewinter\bin\Debug\net7.0\WelcomeToThewinter.deps.json
+C:\Users\DCL\source\repos\HelloWorld\WelcomeToThewinter\bin\Debug\net7.0\WelcomeToThewinter.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\WelcomeToThewinter\bin\Debug\net7.0\WelcomeToThewinter.dll
+C:\Users\DCL\source\repos\HelloWorld\WelcomeToThewinter\bin\Debug\net7.0\WelcomeToThewinter.pdb
+C:\Users\DCL\source\repos\HelloWorld\WelcomeToThewinter\obj\Debug\net7.0\WelcomeToThewinter.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\WelcomeToThewinter\obj\Debug\net7.0\WelcomeToThewinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\WelcomeToThewinter\obj\Debug\net7.0\WelcomeToThewinter.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\WelcomeToThewinter\obj\Debug\net7.0\WelcomeToThewinter.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\WelcomeToThewinter\obj\Debug\net7.0\WelcomeToThewinter.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\WelcomeToThewinter\obj\Debug\net7.0\WelcomeToThewinter.dll
+C:\Users\DCL\source\repos\HelloWorld\WelcomeToThewinter\obj\Debug\net7.0\refint\WelcomeToThewinter.dll
+C:\Users\DCL\source\repos\HelloWorld\WelcomeToThewinter\obj\Debug\net7.0\WelcomeToThewinter.pdb
+C:\Users\DCL\source\repos\HelloWorld\WelcomeToThewinter\obj\Debug\net7.0\WelcomeToThewinter.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\WelcomeToThewinter\obj\Debug\net7.0\ref\WelcomeToThewinter.dll

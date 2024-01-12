@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\ArraaySelection1\bin\Debug\net7.0\ArraaySelection1.exe
+C:\Users\DCL\source\repos\HelloWorld\ArraaySelection1\bin\Debug\net7.0\ArraaySelection1.deps.json
+C:\Users\DCL\source\repos\HelloWorld\ArraaySelection1\bin\Debug\net7.0\ArraaySelection1.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\ArraaySelection1\bin\Debug\net7.0\ArraaySelection1.dll
+C:\Users\DCL\source\repos\HelloWorld\ArraaySelection1\bin\Debug\net7.0\ArraaySelection1.pdb
+C:\Users\DCL\source\repos\HelloWorld\ArraaySelection1\obj\Debug\net7.0\ArraaySelection1.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\ArraaySelection1\obj\Debug\net7.0\ArraaySelection1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\ArraaySelection1\obj\Debug\net7.0\ArraaySelection1.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\ArraaySelection1\obj\Debug\net7.0\ArraaySelection1.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\ArraaySelection1\obj\Debug\net7.0\ArraaySelection1.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\ArraaySelection1\obj\Debug\net7.0\ArraaySelection1.dll
+C:\Users\DCL\source\repos\HelloWorld\ArraaySelection1\obj\Debug\net7.0\refint\ArraaySelection1.dll
+C:\Users\DCL\source\repos\HelloWorld\ArraaySelection1\obj\Debug\net7.0\ArraaySelection1.pdb
+C:\Users\DCL\source\repos\HelloWorld\ArraaySelection1\obj\Debug\net7.0\ArraaySelection1.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\ArraaySelection1\obj\Debug\net7.0\ref\ArraaySelection1.dll

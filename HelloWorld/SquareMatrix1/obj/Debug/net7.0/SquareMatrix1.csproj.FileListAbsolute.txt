@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\SquareMatrix1\bin\Debug\net7.0\SquareMatrix1.exe
+C:\Users\DCL\source\repos\HelloWorld\SquareMatrix1\bin\Debug\net7.0\SquareMatrix1.deps.json
+C:\Users\DCL\source\repos\HelloWorld\SquareMatrix1\bin\Debug\net7.0\SquareMatrix1.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\SquareMatrix1\bin\Debug\net7.0\SquareMatrix1.dll
+C:\Users\DCL\source\repos\HelloWorld\SquareMatrix1\bin\Debug\net7.0\SquareMatrix1.pdb
+C:\Users\DCL\source\repos\HelloWorld\SquareMatrix1\obj\Debug\net7.0\SquareMatrix1.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\SquareMatrix1\obj\Debug\net7.0\SquareMatrix1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\SquareMatrix1\obj\Debug\net7.0\SquareMatrix1.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SquareMatrix1\obj\Debug\net7.0\SquareMatrix1.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\SquareMatrix1\obj\Debug\net7.0\SquareMatrix1.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SquareMatrix1\obj\Debug\net7.0\SquareMatrix1.dll
+C:\Users\DCL\source\repos\HelloWorld\SquareMatrix1\obj\Debug\net7.0\refint\SquareMatrix1.dll
+C:\Users\DCL\source\repos\HelloWorld\SquareMatrix1\obj\Debug\net7.0\SquareMatrix1.pdb
+C:\Users\DCL\source\repos\HelloWorld\SquareMatrix1\obj\Debug\net7.0\SquareMatrix1.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\SquareMatrix1\obj\Debug\net7.0\ref\SquareMatrix1.dll

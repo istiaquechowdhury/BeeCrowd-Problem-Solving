@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\PUM\bin\Debug\net7.0\PUM.exe
+C:\Users\DCL\source\repos\HelloWorld\PUM\bin\Debug\net7.0\PUM.deps.json
+C:\Users\DCL\source\repos\HelloWorld\PUM\bin\Debug\net7.0\PUM.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\PUM\bin\Debug\net7.0\PUM.dll
+C:\Users\DCL\source\repos\HelloWorld\PUM\bin\Debug\net7.0\PUM.pdb
+C:\Users\DCL\source\repos\HelloWorld\PUM\obj\Debug\net7.0\PUM.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\PUM\obj\Debug\net7.0\PUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\PUM\obj\Debug\net7.0\PUM.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\PUM\obj\Debug\net7.0\PUM.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\PUM\obj\Debug\net7.0\PUM.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\PUM\obj\Debug\net7.0\PUM.dll
+C:\Users\DCL\source\repos\HelloWorld\PUM\obj\Debug\net7.0\refint\PUM.dll
+C:\Users\DCL\source\repos\HelloWorld\PUM\obj\Debug\net7.0\PUM.pdb
+C:\Users\DCL\source\repos\HelloWorld\PUM\obj\Debug\net7.0\PUM.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\PUM\obj\Debug\net7.0\ref\PUM.dll

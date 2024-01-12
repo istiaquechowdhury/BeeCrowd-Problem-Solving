@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\LineInArray\bin\Debug\net7.0\LineInArray.exe
+C:\Users\DCL\source\repos\HelloWorld\LineInArray\bin\Debug\net7.0\LineInArray.deps.json
+C:\Users\DCL\source\repos\HelloWorld\LineInArray\bin\Debug\net7.0\LineInArray.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\LineInArray\bin\Debug\net7.0\LineInArray.dll
+C:\Users\DCL\source\repos\HelloWorld\LineInArray\bin\Debug\net7.0\LineInArray.pdb
+C:\Users\DCL\source\repos\HelloWorld\LineInArray\obj\Debug\net7.0\LineInArray.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\LineInArray\obj\Debug\net7.0\LineInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\LineInArray\obj\Debug\net7.0\LineInArray.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\LineInArray\obj\Debug\net7.0\LineInArray.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\LineInArray\obj\Debug\net7.0\LineInArray.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\LineInArray\obj\Debug\net7.0\LineInArray.dll
+C:\Users\DCL\source\repos\HelloWorld\LineInArray\obj\Debug\net7.0\refint\LineInArray.dll
+C:\Users\DCL\source\repos\HelloWorld\LineInArray\obj\Debug\net7.0\LineInArray.pdb
+C:\Users\DCL\source\repos\HelloWorld\LineInArray\obj\Debug\net7.0\LineInArray.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\LineInArray\obj\Debug\net7.0\ref\LineInArray.dll

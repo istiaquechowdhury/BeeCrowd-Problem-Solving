@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\LeftArea\bin\Debug\net7.0\LeftArea.exe
+C:\Users\DCL\source\repos\HelloWorld\LeftArea\bin\Debug\net7.0\LeftArea.deps.json
+C:\Users\DCL\source\repos\HelloWorld\LeftArea\bin\Debug\net7.0\LeftArea.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\LeftArea\bin\Debug\net7.0\LeftArea.dll
+C:\Users\DCL\source\repos\HelloWorld\LeftArea\bin\Debug\net7.0\LeftArea.pdb
+C:\Users\DCL\source\repos\HelloWorld\LeftArea\obj\Debug\net7.0\LeftArea.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\LeftArea\obj\Debug\net7.0\LeftArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\LeftArea\obj\Debug\net7.0\LeftArea.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\LeftArea\obj\Debug\net7.0\LeftArea.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\LeftArea\obj\Debug\net7.0\LeftArea.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\LeftArea\obj\Debug\net7.0\LeftArea.dll
+C:\Users\DCL\source\repos\HelloWorld\LeftArea\obj\Debug\net7.0\refint\LeftArea.dll
+C:\Users\DCL\source\repos\HelloWorld\LeftArea\obj\Debug\net7.0\LeftArea.pdb
+C:\Users\DCL\source\repos\HelloWorld\LeftArea\obj\Debug\net7.0\LeftArea.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\LeftArea\obj\Debug\net7.0\ref\LeftArea.dll

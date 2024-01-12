@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\BrazilWorldCup\obj\Debug\net7.0\BrazilWorldCup.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\BrazilWorldCup\obj\Debug\net7.0\BrazilWorldCup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\BrazilWorldCup\obj\Debug\net7.0\BrazilWorldCup.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\BrazilWorldCup\obj\Debug\net7.0\BrazilWorldCup.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\BrazilWorldCup\obj\Debug\net7.0\BrazilWorldCup.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\BrazilWorldCup\bin\Debug\net7.0\BrazilWorldCup.exe
+C:\Users\DCL\source\repos\HelloWorld\BrazilWorldCup\bin\Debug\net7.0\BrazilWorldCup.deps.json
+C:\Users\DCL\source\repos\HelloWorld\BrazilWorldCup\bin\Debug\net7.0\BrazilWorldCup.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\BrazilWorldCup\bin\Debug\net7.0\BrazilWorldCup.dll
+C:\Users\DCL\source\repos\HelloWorld\BrazilWorldCup\bin\Debug\net7.0\BrazilWorldCup.pdb
+C:\Users\DCL\source\repos\HelloWorld\BrazilWorldCup\obj\Debug\net7.0\BrazilWorldCup.dll
+C:\Users\DCL\source\repos\HelloWorld\BrazilWorldCup\obj\Debug\net7.0\refint\BrazilWorldCup.dll
+C:\Users\DCL\source\repos\HelloWorld\BrazilWorldCup\obj\Debug\net7.0\BrazilWorldCup.pdb
+C:\Users\DCL\source\repos\HelloWorld\BrazilWorldCup\obj\Debug\net7.0\BrazilWorldCup.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\BrazilWorldCup\obj\Debug\net7.0\ref\BrazilWorldCup.dll

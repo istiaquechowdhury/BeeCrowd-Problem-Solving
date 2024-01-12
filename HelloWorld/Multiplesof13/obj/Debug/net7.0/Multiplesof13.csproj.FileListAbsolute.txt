@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\Multiplesof13\bin\Debug\net7.0\Multiplesof13.exe
+C:\Users\DCL\source\repos\HelloWorld\Multiplesof13\bin\Debug\net7.0\Multiplesof13.deps.json
+C:\Users\DCL\source\repos\HelloWorld\Multiplesof13\bin\Debug\net7.0\Multiplesof13.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\Multiplesof13\bin\Debug\net7.0\Multiplesof13.dll
+C:\Users\DCL\source\repos\HelloWorld\Multiplesof13\bin\Debug\net7.0\Multiplesof13.pdb
+C:\Users\DCL\source\repos\HelloWorld\Multiplesof13\obj\Debug\net7.0\Multiplesof13.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\Multiplesof13\obj\Debug\net7.0\Multiplesof13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\Multiplesof13\obj\Debug\net7.0\Multiplesof13.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Multiplesof13\obj\Debug\net7.0\Multiplesof13.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\Multiplesof13\obj\Debug\net7.0\Multiplesof13.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Multiplesof13\obj\Debug\net7.0\Multiplesof13.dll
+C:\Users\DCL\source\repos\HelloWorld\Multiplesof13\obj\Debug\net7.0\refint\Multiplesof13.dll
+C:\Users\DCL\source\repos\HelloWorld\Multiplesof13\obj\Debug\net7.0\Multiplesof13.pdb
+C:\Users\DCL\source\repos\HelloWorld\Multiplesof13\obj\Debug\net7.0\Multiplesof13.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\Multiplesof13\obj\Debug\net7.0\ref\Multiplesof13.dll

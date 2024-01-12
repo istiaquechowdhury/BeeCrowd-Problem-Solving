@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\Snack\bin\Debug\net7.0\Snack.exe
+C:\Users\DCL\source\repos\HelloWorld\Snack\bin\Debug\net7.0\Snack.deps.json
+C:\Users\DCL\source\repos\HelloWorld\Snack\bin\Debug\net7.0\Snack.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\Snack\bin\Debug\net7.0\Snack.dll
+C:\Users\DCL\source\repos\HelloWorld\Snack\bin\Debug\net7.0\Snack.pdb
+C:\Users\DCL\source\repos\HelloWorld\Snack\obj\Debug\net7.0\Snack.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\Snack\obj\Debug\net7.0\Snack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\Snack\obj\Debug\net7.0\Snack.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Snack\obj\Debug\net7.0\Snack.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\Snack\obj\Debug\net7.0\Snack.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Snack\obj\Debug\net7.0\Snack.dll
+C:\Users\DCL\source\repos\HelloWorld\Snack\obj\Debug\net7.0\refint\Snack.dll
+C:\Users\DCL\source\repos\HelloWorld\Snack\obj\Debug\net7.0\Snack.pdb
+C:\Users\DCL\source\repos\HelloWorld\Snack\obj\Debug\net7.0\Snack.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\Snack\obj\Debug\net7.0\ref\Snack.dll

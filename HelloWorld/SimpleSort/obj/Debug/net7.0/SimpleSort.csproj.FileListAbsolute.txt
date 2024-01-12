@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\SimpleSort\bin\Debug\net7.0\SimpleSort.exe
+C:\Users\DCL\source\repos\HelloWorld\SimpleSort\bin\Debug\net7.0\SimpleSort.deps.json
+C:\Users\DCL\source\repos\HelloWorld\SimpleSort\bin\Debug\net7.0\SimpleSort.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\SimpleSort\bin\Debug\net7.0\SimpleSort.dll
+C:\Users\DCL\source\repos\HelloWorld\SimpleSort\bin\Debug\net7.0\SimpleSort.pdb
+C:\Users\DCL\source\repos\HelloWorld\SimpleSort\obj\Debug\net7.0\SimpleSort.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\SimpleSort\obj\Debug\net7.0\SimpleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\SimpleSort\obj\Debug\net7.0\SimpleSort.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SimpleSort\obj\Debug\net7.0\SimpleSort.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\SimpleSort\obj\Debug\net7.0\SimpleSort.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SimpleSort\obj\Debug\net7.0\SimpleSort.dll
+C:\Users\DCL\source\repos\HelloWorld\SimpleSort\obj\Debug\net7.0\refint\SimpleSort.dll
+C:\Users\DCL\source\repos\HelloWorld\SimpleSort\obj\Debug\net7.0\SimpleSort.pdb
+C:\Users\DCL\source\repos\HelloWorld\SimpleSort\obj\Debug\net7.0\SimpleSort.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\SimpleSort\obj\Debug\net7.0\ref\SimpleSort.dll

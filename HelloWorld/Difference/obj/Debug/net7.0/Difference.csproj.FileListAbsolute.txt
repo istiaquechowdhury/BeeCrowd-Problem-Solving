@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\Difference\bin\Debug\net7.0\Difference.exe
+C:\Users\DCL\source\repos\HelloWorld\Difference\bin\Debug\net7.0\Difference.deps.json
+C:\Users\DCL\source\repos\HelloWorld\Difference\bin\Debug\net7.0\Difference.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\Difference\bin\Debug\net7.0\Difference.dll
+C:\Users\DCL\source\repos\HelloWorld\Difference\bin\Debug\net7.0\Difference.pdb
+C:\Users\DCL\source\repos\HelloWorld\Difference\obj\Debug\net7.0\Difference.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\Difference\obj\Debug\net7.0\Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\Difference\obj\Debug\net7.0\Difference.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Difference\obj\Debug\net7.0\Difference.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\Difference\obj\Debug\net7.0\Difference.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Difference\obj\Debug\net7.0\Difference.dll
+C:\Users\DCL\source\repos\HelloWorld\Difference\obj\Debug\net7.0\refint\Difference.dll
+C:\Users\DCL\source\repos\HelloWorld\Difference\obj\Debug\net7.0\Difference.pdb
+C:\Users\DCL\source\repos\HelloWorld\Difference\obj\Debug\net7.0\Difference.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\Difference\obj\Debug\net7.0\ref\Difference.dll

@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\Divisors\bin\Debug\net7.0\Divisors.exe
+C:\Users\DCL\source\repos\HelloWorld\Divisors\bin\Debug\net7.0\Divisors.deps.json
+C:\Users\DCL\source\repos\HelloWorld\Divisors\bin\Debug\net7.0\Divisors.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\Divisors\bin\Debug\net7.0\Divisors.dll
+C:\Users\DCL\source\repos\HelloWorld\Divisors\bin\Debug\net7.0\Divisors.pdb
+C:\Users\DCL\source\repos\HelloWorld\Divisors\obj\Debug\net7.0\Divisors.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\Divisors\obj\Debug\net7.0\Divisors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\Divisors\obj\Debug\net7.0\Divisors.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Divisors\obj\Debug\net7.0\Divisors.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\Divisors\obj\Debug\net7.0\Divisors.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Divisors\obj\Debug\net7.0\Divisors.dll
+C:\Users\DCL\source\repos\HelloWorld\Divisors\obj\Debug\net7.0\refint\Divisors.dll
+C:\Users\DCL\source\repos\HelloWorld\Divisors\obj\Debug\net7.0\Divisors.pdb
+C:\Users\DCL\source\repos\HelloWorld\Divisors\obj\Debug\net7.0\Divisors.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\Divisors\obj\Debug\net7.0\ref\Divisors.dll

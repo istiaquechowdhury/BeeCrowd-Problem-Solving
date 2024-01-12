@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\SimpleProduct\bin\Debug\net7.0\SimpleProduct.exe
+C:\Users\DCL\source\repos\HelloWorld\SimpleProduct\bin\Debug\net7.0\SimpleProduct.deps.json
+C:\Users\DCL\source\repos\HelloWorld\SimpleProduct\bin\Debug\net7.0\SimpleProduct.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\SimpleProduct\bin\Debug\net7.0\SimpleProduct.dll
+C:\Users\DCL\source\repos\HelloWorld\SimpleProduct\bin\Debug\net7.0\SimpleProduct.pdb
+C:\Users\DCL\source\repos\HelloWorld\SimpleProduct\obj\Debug\net7.0\SimpleProduct.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\SimpleProduct\obj\Debug\net7.0\SimpleProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\SimpleProduct\obj\Debug\net7.0\SimpleProduct.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SimpleProduct\obj\Debug\net7.0\SimpleProduct.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\SimpleProduct\obj\Debug\net7.0\SimpleProduct.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SimpleProduct\obj\Debug\net7.0\SimpleProduct.dll
+C:\Users\DCL\source\repos\HelloWorld\SimpleProduct\obj\Debug\net7.0\refint\SimpleProduct.dll
+C:\Users\DCL\source\repos\HelloWorld\SimpleProduct\obj\Debug\net7.0\SimpleProduct.pdb
+C:\Users\DCL\source\repos\HelloWorld\SimpleProduct\obj\Debug\net7.0\SimpleProduct.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\SimpleProduct\obj\Debug\net7.0\ref\SimpleProduct.dll

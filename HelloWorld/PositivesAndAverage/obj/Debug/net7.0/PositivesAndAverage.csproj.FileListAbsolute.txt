@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\PositivesAndAverage\bin\Debug\net7.0\PositivesAndAverage.exe
+C:\Users\DCL\source\repos\HelloWorld\PositivesAndAverage\bin\Debug\net7.0\PositivesAndAverage.deps.json
+C:\Users\DCL\source\repos\HelloWorld\PositivesAndAverage\bin\Debug\net7.0\PositivesAndAverage.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\PositivesAndAverage\bin\Debug\net7.0\PositivesAndAverage.dll
+C:\Users\DCL\source\repos\HelloWorld\PositivesAndAverage\bin\Debug\net7.0\PositivesAndAverage.pdb
+C:\Users\DCL\source\repos\HelloWorld\PositivesAndAverage\obj\Debug\net7.0\PositivesAndAverage.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\PositivesAndAverage\obj\Debug\net7.0\PositivesAndAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\PositivesAndAverage\obj\Debug\net7.0\PositivesAndAverage.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\PositivesAndAverage\obj\Debug\net7.0\PositivesAndAverage.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\PositivesAndAverage\obj\Debug\net7.0\PositivesAndAverage.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\PositivesAndAverage\obj\Debug\net7.0\PositivesAndAverage.dll
+C:\Users\DCL\source\repos\HelloWorld\PositivesAndAverage\obj\Debug\net7.0\refint\PositivesAndAverage.dll
+C:\Users\DCL\source\repos\HelloWorld\PositivesAndAverage\obj\Debug\net7.0\PositivesAndAverage.pdb
+C:\Users\DCL\source\repos\HelloWorld\PositivesAndAverage\obj\Debug\net7.0\PositivesAndAverage.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\PositivesAndAverage\obj\Debug\net7.0\ref\PositivesAndAverage.dll

@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\AgeinDays\bin\Debug\net7.0\AgeinDays.exe
+C:\Users\DCL\source\repos\HelloWorld\AgeinDays\bin\Debug\net7.0\AgeinDays.deps.json
+C:\Users\DCL\source\repos\HelloWorld\AgeinDays\bin\Debug\net7.0\AgeinDays.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\AgeinDays\bin\Debug\net7.0\AgeinDays.dll
+C:\Users\DCL\source\repos\HelloWorld\AgeinDays\bin\Debug\net7.0\AgeinDays.pdb
+C:\Users\DCL\source\repos\HelloWorld\AgeinDays\obj\Debug\net7.0\AgeinDays.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\AgeinDays\obj\Debug\net7.0\AgeinDays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\AgeinDays\obj\Debug\net7.0\AgeinDays.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\AgeinDays\obj\Debug\net7.0\AgeinDays.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\AgeinDays\obj\Debug\net7.0\AgeinDays.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\AgeinDays\obj\Debug\net7.0\AgeinDays.dll
+C:\Users\DCL\source\repos\HelloWorld\AgeinDays\obj\Debug\net7.0\refint\AgeinDays.dll
+C:\Users\DCL\source\repos\HelloWorld\AgeinDays\obj\Debug\net7.0\AgeinDays.pdb
+C:\Users\DCL\source\repos\HelloWorld\AgeinDays\obj\Debug\net7.0\AgeinDays.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\AgeinDays\obj\Debug\net7.0\ref\AgeinDays.dll

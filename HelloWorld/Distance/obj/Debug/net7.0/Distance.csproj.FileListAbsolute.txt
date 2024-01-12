@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\Distance\bin\Debug\net7.0\Distance.exe
+C:\Users\DCL\source\repos\HelloWorld\Distance\bin\Debug\net7.0\Distance.deps.json
+C:\Users\DCL\source\repos\HelloWorld\Distance\bin\Debug\net7.0\Distance.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\Distance\bin\Debug\net7.0\Distance.dll
+C:\Users\DCL\source\repos\HelloWorld\Distance\bin\Debug\net7.0\Distance.pdb
+C:\Users\DCL\source\repos\HelloWorld\Distance\obj\Debug\net7.0\Distance.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\Distance\obj\Debug\net7.0\Distance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\Distance\obj\Debug\net7.0\Distance.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Distance\obj\Debug\net7.0\Distance.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\Distance\obj\Debug\net7.0\Distance.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Distance\obj\Debug\net7.0\Distance.dll
+C:\Users\DCL\source\repos\HelloWorld\Distance\obj\Debug\net7.0\refint\Distance.dll
+C:\Users\DCL\source\repos\HelloWorld\Distance\obj\Debug\net7.0\Distance.pdb
+C:\Users\DCL\source\repos\HelloWorld\Distance\obj\Debug\net7.0\Distance.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\Distance\obj\Debug\net7.0\ref\Distance.dll

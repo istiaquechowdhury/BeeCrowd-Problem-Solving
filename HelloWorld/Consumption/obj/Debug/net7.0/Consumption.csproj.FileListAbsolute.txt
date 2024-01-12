@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\Consumption\bin\Debug\net7.0\Consumption.exe
+C:\Users\DCL\source\repos\HelloWorld\Consumption\bin\Debug\net7.0\Consumption.deps.json
+C:\Users\DCL\source\repos\HelloWorld\Consumption\bin\Debug\net7.0\Consumption.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\Consumption\bin\Debug\net7.0\Consumption.dll
+C:\Users\DCL\source\repos\HelloWorld\Consumption\bin\Debug\net7.0\Consumption.pdb
+C:\Users\DCL\source\repos\HelloWorld\Consumption\obj\Debug\net7.0\Consumption.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\Consumption\obj\Debug\net7.0\Consumption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\Consumption\obj\Debug\net7.0\Consumption.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Consumption\obj\Debug\net7.0\Consumption.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\Consumption\obj\Debug\net7.0\Consumption.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Consumption\obj\Debug\net7.0\Consumption.dll
+C:\Users\DCL\source\repos\HelloWorld\Consumption\obj\Debug\net7.0\refint\Consumption.dll
+C:\Users\DCL\source\repos\HelloWorld\Consumption\obj\Debug\net7.0\Consumption.pdb
+C:\Users\DCL\source\repos\HelloWorld\Consumption\obj\Debug\net7.0\Consumption.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\Consumption\obj\Debug\net7.0\ref\Consumption.dll

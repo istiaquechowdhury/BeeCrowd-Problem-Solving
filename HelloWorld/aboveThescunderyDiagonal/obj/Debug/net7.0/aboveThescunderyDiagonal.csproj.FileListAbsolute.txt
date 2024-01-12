@@ -1,0 +1,5 @@
+C:\Users\DCL\source\repos\HelloWorld\aboveThescunderyDiagonal\obj\Debug\net7.0\aboveThescunderyDiagonal.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\aboveThescunderyDiagonal\obj\Debug\net7.0\aboveThescunderyDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\aboveThescunderyDiagonal\obj\Debug\net7.0\aboveThescunderyDiagonal.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\aboveThescunderyDiagonal\obj\Debug\net7.0\aboveThescunderyDiagonal.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\aboveThescunderyDiagonal\obj\Debug\net7.0\aboveThescunderyDiagonal.csproj.CoreCompileInputs.cache

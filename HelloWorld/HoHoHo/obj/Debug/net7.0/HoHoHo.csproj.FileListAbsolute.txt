@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\HoHoHo\bin\Debug\net7.0\HoHoHo.exe
+C:\Users\DCL\source\repos\HelloWorld\HoHoHo\bin\Debug\net7.0\HoHoHo.deps.json
+C:\Users\DCL\source\repos\HelloWorld\HoHoHo\bin\Debug\net7.0\HoHoHo.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\HoHoHo\bin\Debug\net7.0\HoHoHo.dll
+C:\Users\DCL\source\repos\HelloWorld\HoHoHo\bin\Debug\net7.0\HoHoHo.pdb
+C:\Users\DCL\source\repos\HelloWorld\HoHoHo\obj\Debug\net7.0\HoHoHo.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\HoHoHo\obj\Debug\net7.0\HoHoHo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\HoHoHo\obj\Debug\net7.0\HoHoHo.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\HoHoHo\obj\Debug\net7.0\HoHoHo.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\HoHoHo\obj\Debug\net7.0\HoHoHo.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\HoHoHo\obj\Debug\net7.0\HoHoHo.dll
+C:\Users\DCL\source\repos\HelloWorld\HoHoHo\obj\Debug\net7.0\refint\HoHoHo.dll
+C:\Users\DCL\source\repos\HelloWorld\HoHoHo\obj\Debug\net7.0\HoHoHo.pdb
+C:\Users\DCL\source\repos\HelloWorld\HoHoHo\obj\Debug\net7.0\HoHoHo.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\HoHoHo\obj\Debug\net7.0\ref\HoHoHo.dll

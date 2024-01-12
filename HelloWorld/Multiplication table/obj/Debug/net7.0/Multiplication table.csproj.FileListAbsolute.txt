@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\Multiplication table\bin\Debug\net7.0\Multiplication table.exe
+C:\Users\DCL\source\repos\HelloWorld\Multiplication table\bin\Debug\net7.0\Multiplication table.deps.json
+C:\Users\DCL\source\repos\HelloWorld\Multiplication table\bin\Debug\net7.0\Multiplication table.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\Multiplication table\bin\Debug\net7.0\Multiplication table.dll
+C:\Users\DCL\source\repos\HelloWorld\Multiplication table\bin\Debug\net7.0\Multiplication table.pdb
+C:\Users\DCL\source\repos\HelloWorld\Multiplication table\obj\Debug\net7.0\Multiplication table.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\Multiplication table\obj\Debug\net7.0\Multiplication table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\Multiplication table\obj\Debug\net7.0\Multiplication table.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Multiplication table\obj\Debug\net7.0\Multiplication table.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\Multiplication table\obj\Debug\net7.0\Multiplication table.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Multiplication table\obj\Debug\net7.0\Multiplication table.dll
+C:\Users\DCL\source\repos\HelloWorld\Multiplication table\obj\Debug\net7.0\refint\Multiplication table.dll
+C:\Users\DCL\source\repos\HelloWorld\Multiplication table\obj\Debug\net7.0\Multiplication table.pdb
+C:\Users\DCL\source\repos\HelloWorld\Multiplication table\obj\Debug\net7.0\Multiplication table.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\Multiplication table\obj\Debug\net7.0\ref\Multiplication table.dll

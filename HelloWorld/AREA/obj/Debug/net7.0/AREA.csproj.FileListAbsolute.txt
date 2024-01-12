@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\AREA\bin\Debug\net7.0\AREA.exe
+C:\Users\DCL\source\repos\HelloWorld\AREA\bin\Debug\net7.0\AREA.deps.json
+C:\Users\DCL\source\repos\HelloWorld\AREA\bin\Debug\net7.0\AREA.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\AREA\bin\Debug\net7.0\AREA.dll
+C:\Users\DCL\source\repos\HelloWorld\AREA\bin\Debug\net7.0\AREA.pdb
+C:\Users\DCL\source\repos\HelloWorld\AREA\obj\Debug\net7.0\AREA.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\AREA\obj\Debug\net7.0\AREA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\AREA\obj\Debug\net7.0\AREA.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\AREA\obj\Debug\net7.0\AREA.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\AREA\obj\Debug\net7.0\AREA.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\AREA\obj\Debug\net7.0\AREA.dll
+C:\Users\DCL\source\repos\HelloWorld\AREA\obj\Debug\net7.0\refint\AREA.dll
+C:\Users\DCL\source\repos\HelloWorld\AREA\obj\Debug\net7.0\AREA.pdb
+C:\Users\DCL\source\repos\HelloWorld\AREA\obj\Debug\net7.0\AREA.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\AREA\obj\Debug\net7.0\ref\AREA.dll

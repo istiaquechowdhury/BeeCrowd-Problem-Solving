@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\HighestAndPosition\bin\Debug\net7.0\HighestAndPosition.exe
+C:\Users\DCL\source\repos\HelloWorld\HighestAndPosition\bin\Debug\net7.0\HighestAndPosition.deps.json
+C:\Users\DCL\source\repos\HelloWorld\HighestAndPosition\bin\Debug\net7.0\HighestAndPosition.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\HighestAndPosition\bin\Debug\net7.0\HighestAndPosition.dll
+C:\Users\DCL\source\repos\HelloWorld\HighestAndPosition\bin\Debug\net7.0\HighestAndPosition.pdb
+C:\Users\DCL\source\repos\HelloWorld\HighestAndPosition\obj\Debug\net7.0\HighestAndPosition.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\HighestAndPosition\obj\Debug\net7.0\HighestAndPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\HighestAndPosition\obj\Debug\net7.0\HighestAndPosition.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\HighestAndPosition\obj\Debug\net7.0\HighestAndPosition.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\HighestAndPosition\obj\Debug\net7.0\HighestAndPosition.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\HighestAndPosition\obj\Debug\net7.0\HighestAndPosition.dll
+C:\Users\DCL\source\repos\HelloWorld\HighestAndPosition\obj\Debug\net7.0\refint\HighestAndPosition.dll
+C:\Users\DCL\source\repos\HelloWorld\HighestAndPosition\obj\Debug\net7.0\HighestAndPosition.pdb
+C:\Users\DCL\source\repos\HelloWorld\HighestAndPosition\obj\Debug\net7.0\HighestAndPosition.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\HighestAndPosition\obj\Debug\net7.0\ref\HighestAndPosition.dll

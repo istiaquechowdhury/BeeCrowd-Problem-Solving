@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\SumofConsecutiveOddNumbers3\bin\Debug\net7.0\SumofConsecutiveOddNumbers3.exe
+C:\Users\DCL\source\repos\HelloWorld\SumofConsecutiveOddNumbers3\bin\Debug\net7.0\SumofConsecutiveOddNumbers3.deps.json
+C:\Users\DCL\source\repos\HelloWorld\SumofConsecutiveOddNumbers3\bin\Debug\net7.0\SumofConsecutiveOddNumbers3.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\SumofConsecutiveOddNumbers3\bin\Debug\net7.0\SumofConsecutiveOddNumbers3.dll
+C:\Users\DCL\source\repos\HelloWorld\SumofConsecutiveOddNumbers3\bin\Debug\net7.0\SumofConsecutiveOddNumbers3.pdb
+C:\Users\DCL\source\repos\HelloWorld\SumofConsecutiveOddNumbers3\obj\Debug\net7.0\SumofConsecutiveOddNumbers3.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\SumofConsecutiveOddNumbers3\obj\Debug\net7.0\SumofConsecutiveOddNumbers3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\SumofConsecutiveOddNumbers3\obj\Debug\net7.0\SumofConsecutiveOddNumbers3.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SumofConsecutiveOddNumbers3\obj\Debug\net7.0\SumofConsecutiveOddNumbers3.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\SumofConsecutiveOddNumbers3\obj\Debug\net7.0\SumofConsecutiveOddNumbers3.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SumofConsecutiveOddNumbers3\obj\Debug\net7.0\SumofConsecutiveOddNumbers3.dll
+C:\Users\DCL\source\repos\HelloWorld\SumofConsecutiveOddNumbers3\obj\Debug\net7.0\refint\SumofConsecutiveOddNumbers3.dll
+C:\Users\DCL\source\repos\HelloWorld\SumofConsecutiveOddNumbers3\obj\Debug\net7.0\SumofConsecutiveOddNumbers3.pdb
+C:\Users\DCL\source\repos\HelloWorld\SumofConsecutiveOddNumbers3\obj\Debug\net7.0\SumofConsecutiveOddNumbers3.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\SumofConsecutiveOddNumbers3\obj\Debug\net7.0\ref\SumofConsecutiveOddNumbers3.dll

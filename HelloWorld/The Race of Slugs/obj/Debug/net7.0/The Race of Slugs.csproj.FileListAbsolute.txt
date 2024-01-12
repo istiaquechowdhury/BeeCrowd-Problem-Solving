@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\The Race of Slugs\bin\Debug\net7.0\The Race of Slugs.exe
+C:\Users\DCL\source\repos\HelloWorld\The Race of Slugs\bin\Debug\net7.0\The Race of Slugs.deps.json
+C:\Users\DCL\source\repos\HelloWorld\The Race of Slugs\bin\Debug\net7.0\The Race of Slugs.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\The Race of Slugs\bin\Debug\net7.0\The Race of Slugs.dll
+C:\Users\DCL\source\repos\HelloWorld\The Race of Slugs\bin\Debug\net7.0\The Race of Slugs.pdb
+C:\Users\DCL\source\repos\HelloWorld\The Race of Slugs\obj\Debug\net7.0\The Race of Slugs.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\The Race of Slugs\obj\Debug\net7.0\The Race of Slugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\The Race of Slugs\obj\Debug\net7.0\The Race of Slugs.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\The Race of Slugs\obj\Debug\net7.0\The Race of Slugs.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\The Race of Slugs\obj\Debug\net7.0\The Race of Slugs.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\The Race of Slugs\obj\Debug\net7.0\The Race of Slugs.dll
+C:\Users\DCL\source\repos\HelloWorld\The Race of Slugs\obj\Debug\net7.0\refint\The Race of Slugs.dll
+C:\Users\DCL\source\repos\HelloWorld\The Race of Slugs\obj\Debug\net7.0\The Race of Slugs.pdb
+C:\Users\DCL\source\repos\HelloWorld\The Race of Slugs\obj\Debug\net7.0\The Race of Slugs.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\The Race of Slugs\obj\Debug\net7.0\ref\The Race of Slugs.dll

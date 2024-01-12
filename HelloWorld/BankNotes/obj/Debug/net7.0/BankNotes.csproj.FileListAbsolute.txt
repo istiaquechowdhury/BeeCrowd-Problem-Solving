@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\BankNotes\bin\Debug\net7.0\BankNotes.exe
+C:\Users\DCL\source\repos\HelloWorld\BankNotes\bin\Debug\net7.0\BankNotes.deps.json
+C:\Users\DCL\source\repos\HelloWorld\BankNotes\bin\Debug\net7.0\BankNotes.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\BankNotes\bin\Debug\net7.0\BankNotes.dll
+C:\Users\DCL\source\repos\HelloWorld\BankNotes\bin\Debug\net7.0\BankNotes.pdb
+C:\Users\DCL\source\repos\HelloWorld\BankNotes\obj\Debug\net7.0\BankNotes.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\BankNotes\obj\Debug\net7.0\BankNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\BankNotes\obj\Debug\net7.0\BankNotes.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\BankNotes\obj\Debug\net7.0\BankNotes.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\BankNotes\obj\Debug\net7.0\BankNotes.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\BankNotes\obj\Debug\net7.0\BankNotes.dll
+C:\Users\DCL\source\repos\HelloWorld\BankNotes\obj\Debug\net7.0\refint\BankNotes.dll
+C:\Users\DCL\source\repos\HelloWorld\BankNotes\obj\Debug\net7.0\BankNotes.pdb
+C:\Users\DCL\source\repos\HelloWorld\BankNotes\obj\Debug\net7.0\BankNotes.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\BankNotes\obj\Debug\net7.0\ref\BankNotes.dll

@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\SummingConsecutiveintegers\bin\Debug\net7.0\SummingConsecutiveintegers.exe
+C:\Users\DCL\source\repos\HelloWorld\SummingConsecutiveintegers\bin\Debug\net7.0\SummingConsecutiveintegers.deps.json
+C:\Users\DCL\source\repos\HelloWorld\SummingConsecutiveintegers\bin\Debug\net7.0\SummingConsecutiveintegers.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\SummingConsecutiveintegers\bin\Debug\net7.0\SummingConsecutiveintegers.dll
+C:\Users\DCL\source\repos\HelloWorld\SummingConsecutiveintegers\bin\Debug\net7.0\SummingConsecutiveintegers.pdb
+C:\Users\DCL\source\repos\HelloWorld\SummingConsecutiveintegers\obj\Debug\net7.0\SummingConsecutiveintegers.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\SummingConsecutiveintegers\obj\Debug\net7.0\SummingConsecutiveintegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\SummingConsecutiveintegers\obj\Debug\net7.0\SummingConsecutiveintegers.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SummingConsecutiveintegers\obj\Debug\net7.0\SummingConsecutiveintegers.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\SummingConsecutiveintegers\obj\Debug\net7.0\SummingConsecutiveintegers.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SummingConsecutiveintegers\obj\Debug\net7.0\SummingConsecutiveintegers.dll
+C:\Users\DCL\source\repos\HelloWorld\SummingConsecutiveintegers\obj\Debug\net7.0\refint\SummingConsecutiveintegers.dll
+C:\Users\DCL\source\repos\HelloWorld\SummingConsecutiveintegers\obj\Debug\net7.0\SummingConsecutiveintegers.pdb
+C:\Users\DCL\source\repos\HelloWorld\SummingConsecutiveintegers\obj\Debug\net7.0\SummingConsecutiveintegers.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\SummingConsecutiveintegers\obj\Debug\net7.0\ref\SummingConsecutiveintegers.dll

@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\belowTheMainDiagonal\bin\Debug\net7.0\belowTheMainDiagonal.exe
+C:\Users\DCL\source\repos\HelloWorld\belowTheMainDiagonal\bin\Debug\net7.0\belowTheMainDiagonal.deps.json
+C:\Users\DCL\source\repos\HelloWorld\belowTheMainDiagonal\bin\Debug\net7.0\belowTheMainDiagonal.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\belowTheMainDiagonal\bin\Debug\net7.0\belowTheMainDiagonal.dll
+C:\Users\DCL\source\repos\HelloWorld\belowTheMainDiagonal\bin\Debug\net7.0\belowTheMainDiagonal.pdb
+C:\Users\DCL\source\repos\HelloWorld\belowTheMainDiagonal\obj\Debug\net7.0\belowTheMainDiagonal.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\belowTheMainDiagonal\obj\Debug\net7.0\belowTheMainDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\belowTheMainDiagonal\obj\Debug\net7.0\belowTheMainDiagonal.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\belowTheMainDiagonal\obj\Debug\net7.0\belowTheMainDiagonal.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\belowTheMainDiagonal\obj\Debug\net7.0\belowTheMainDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\belowTheMainDiagonal\obj\Debug\net7.0\belowTheMainDiagonal.dll
+C:\Users\DCL\source\repos\HelloWorld\belowTheMainDiagonal\obj\Debug\net7.0\refint\belowTheMainDiagonal.dll
+C:\Users\DCL\source\repos\HelloWorld\belowTheMainDiagonal\obj\Debug\net7.0\belowTheMainDiagonal.pdb
+C:\Users\DCL\source\repos\HelloWorld\belowTheMainDiagonal\obj\Debug\net7.0\belowTheMainDiagonal.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\belowTheMainDiagonal\obj\Debug\net7.0\ref\belowTheMainDiagonal.dll

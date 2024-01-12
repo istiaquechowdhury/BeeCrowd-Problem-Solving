@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\Ages\bin\Debug\net7.0\Ages.exe
+C:\Users\DCL\source\repos\HelloWorld\Ages\bin\Debug\net7.0\Ages.deps.json
+C:\Users\DCL\source\repos\HelloWorld\Ages\bin\Debug\net7.0\Ages.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\Ages\bin\Debug\net7.0\Ages.dll
+C:\Users\DCL\source\repos\HelloWorld\Ages\bin\Debug\net7.0\Ages.pdb
+C:\Users\DCL\source\repos\HelloWorld\Ages\obj\Debug\net7.0\Ages.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\Ages\obj\Debug\net7.0\Ages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\Ages\obj\Debug\net7.0\Ages.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Ages\obj\Debug\net7.0\Ages.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\Ages\obj\Debug\net7.0\Ages.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Ages\obj\Debug\net7.0\Ages.dll
+C:\Users\DCL\source\repos\HelloWorld\Ages\obj\Debug\net7.0\refint\Ages.dll
+C:\Users\DCL\source\repos\HelloWorld\Ages\obj\Debug\net7.0\Ages.pdb
+C:\Users\DCL\source\repos\HelloWorld\Ages\obj\Debug\net7.0\Ages.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\Ages\obj\Debug\net7.0\ref\Ages.dll

@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\SquaredAndCubic\bin\Debug\net7.0\SquaredAndCubic.exe
+C:\Users\DCL\source\repos\HelloWorld\SquaredAndCubic\bin\Debug\net7.0\SquaredAndCubic.deps.json
+C:\Users\DCL\source\repos\HelloWorld\SquaredAndCubic\bin\Debug\net7.0\SquaredAndCubic.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\SquaredAndCubic\bin\Debug\net7.0\SquaredAndCubic.dll
+C:\Users\DCL\source\repos\HelloWorld\SquaredAndCubic\bin\Debug\net7.0\SquaredAndCubic.pdb
+C:\Users\DCL\source\repos\HelloWorld\SquaredAndCubic\obj\Debug\net7.0\SquaredAndCubic.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\SquaredAndCubic\obj\Debug\net7.0\SquaredAndCubic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\SquaredAndCubic\obj\Debug\net7.0\SquaredAndCubic.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SquaredAndCubic\obj\Debug\net7.0\SquaredAndCubic.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\SquaredAndCubic\obj\Debug\net7.0\SquaredAndCubic.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SquaredAndCubic\obj\Debug\net7.0\SquaredAndCubic.dll
+C:\Users\DCL\source\repos\HelloWorld\SquaredAndCubic\obj\Debug\net7.0\refint\SquaredAndCubic.dll
+C:\Users\DCL\source\repos\HelloWorld\SquaredAndCubic\obj\Debug\net7.0\SquaredAndCubic.pdb
+C:\Users\DCL\source\repos\HelloWorld\SquaredAndCubic\obj\Debug\net7.0\SquaredAndCubic.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\SquaredAndCubic\obj\Debug\net7.0\ref\SquaredAndCubic.dll

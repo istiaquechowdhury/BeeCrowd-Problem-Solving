@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\AboveTheMainDiagonal\obj\Debug\net7.0\AboveTheMainDiagonal.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\AboveTheMainDiagonal\obj\Debug\net7.0\AboveTheMainDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\AboveTheMainDiagonal\obj\Debug\net7.0\AboveTheMainDiagonal.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\AboveTheMainDiagonal\obj\Debug\net7.0\AboveTheMainDiagonal.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\AboveTheMainDiagonal\obj\Debug\net7.0\AboveTheMainDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\AboveTheMainDiagonal\bin\Debug\net7.0\AboveTheMainDiagonal.exe
+C:\Users\DCL\source\repos\HelloWorld\AboveTheMainDiagonal\bin\Debug\net7.0\AboveTheMainDiagonal.deps.json
+C:\Users\DCL\source\repos\HelloWorld\AboveTheMainDiagonal\bin\Debug\net7.0\AboveTheMainDiagonal.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\AboveTheMainDiagonal\bin\Debug\net7.0\AboveTheMainDiagonal.dll
+C:\Users\DCL\source\repos\HelloWorld\AboveTheMainDiagonal\bin\Debug\net7.0\AboveTheMainDiagonal.pdb
+C:\Users\DCL\source\repos\HelloWorld\AboveTheMainDiagonal\obj\Debug\net7.0\AboveTheMainDiagonal.dll
+C:\Users\DCL\source\repos\HelloWorld\AboveTheMainDiagonal\obj\Debug\net7.0\refint\AboveTheMainDiagonal.dll
+C:\Users\DCL\source\repos\HelloWorld\AboveTheMainDiagonal\obj\Debug\net7.0\AboveTheMainDiagonal.pdb
+C:\Users\DCL\source\repos\HelloWorld\AboveTheMainDiagonal\obj\Debug\net7.0\AboveTheMainDiagonal.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\AboveTheMainDiagonal\obj\Debug\net7.0\ref\AboveTheMainDiagonal.dll

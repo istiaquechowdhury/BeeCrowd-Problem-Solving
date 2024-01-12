@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\PositiveNumbers\bin\Debug\net7.0\PositiveNumbers.exe
+C:\Users\DCL\source\repos\HelloWorld\PositiveNumbers\bin\Debug\net7.0\PositiveNumbers.deps.json
+C:\Users\DCL\source\repos\HelloWorld\PositiveNumbers\bin\Debug\net7.0\PositiveNumbers.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\PositiveNumbers\bin\Debug\net7.0\PositiveNumbers.dll
+C:\Users\DCL\source\repos\HelloWorld\PositiveNumbers\bin\Debug\net7.0\PositiveNumbers.pdb
+C:\Users\DCL\source\repos\HelloWorld\PositiveNumbers\obj\Debug\net7.0\PositiveNumbers.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\PositiveNumbers\obj\Debug\net7.0\PositiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\PositiveNumbers\obj\Debug\net7.0\PositiveNumbers.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\PositiveNumbers\obj\Debug\net7.0\PositiveNumbers.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\PositiveNumbers\obj\Debug\net7.0\PositiveNumbers.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\PositiveNumbers\obj\Debug\net7.0\PositiveNumbers.dll
+C:\Users\DCL\source\repos\HelloWorld\PositiveNumbers\obj\Debug\net7.0\refint\PositiveNumbers.dll
+C:\Users\DCL\source\repos\HelloWorld\PositiveNumbers\obj\Debug\net7.0\PositiveNumbers.pdb
+C:\Users\DCL\source\repos\HelloWorld\PositiveNumbers\obj\Debug\net7.0\PositiveNumbers.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\PositiveNumbers\obj\Debug\net7.0\ref\PositiveNumbers.dll

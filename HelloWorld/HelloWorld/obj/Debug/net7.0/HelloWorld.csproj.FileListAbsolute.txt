@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.exe
+C:\Users\DCL\source\repos\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.deps.json
+C:\Users\DCL\source\repos\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.dll
+C:\Users\DCL\source\repos\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.pdb
+C:\Users\DCL\source\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.dll
+C:\Users\DCL\source\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\refint\HelloWorld.dll
+C:\Users\DCL\source\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.pdb
+C:\Users\DCL\source\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\ref\HelloWorld.dll

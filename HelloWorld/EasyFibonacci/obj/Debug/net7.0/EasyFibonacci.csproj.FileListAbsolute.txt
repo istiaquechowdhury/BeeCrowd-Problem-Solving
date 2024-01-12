@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\EasyFibonacci\bin\Debug\net7.0\EasyFibonacci.exe
+C:\Users\DCL\source\repos\HelloWorld\EasyFibonacci\bin\Debug\net7.0\EasyFibonacci.deps.json
+C:\Users\DCL\source\repos\HelloWorld\EasyFibonacci\bin\Debug\net7.0\EasyFibonacci.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\EasyFibonacci\bin\Debug\net7.0\EasyFibonacci.dll
+C:\Users\DCL\source\repos\HelloWorld\EasyFibonacci\bin\Debug\net7.0\EasyFibonacci.pdb
+C:\Users\DCL\source\repos\HelloWorld\EasyFibonacci\obj\Debug\net7.0\EasyFibonacci.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\EasyFibonacci\obj\Debug\net7.0\EasyFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\EasyFibonacci\obj\Debug\net7.0\EasyFibonacci.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\EasyFibonacci\obj\Debug\net7.0\EasyFibonacci.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\EasyFibonacci\obj\Debug\net7.0\EasyFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\EasyFibonacci\obj\Debug\net7.0\EasyFibonacci.dll
+C:\Users\DCL\source\repos\HelloWorld\EasyFibonacci\obj\Debug\net7.0\refint\EasyFibonacci.dll
+C:\Users\DCL\source\repos\HelloWorld\EasyFibonacci\obj\Debug\net7.0\EasyFibonacci.pdb
+C:\Users\DCL\source\repos\HelloWorld\EasyFibonacci\obj\Debug\net7.0\EasyFibonacci.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\EasyFibonacci\obj\Debug\net7.0\ref\EasyFibonacci.dll

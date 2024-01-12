@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\DistanceBetweenTwoPoints\bin\Debug\net7.0\DistanceBetweenTwoPoints.exe
+C:\Users\DCL\source\repos\HelloWorld\DistanceBetweenTwoPoints\bin\Debug\net7.0\DistanceBetweenTwoPoints.deps.json
+C:\Users\DCL\source\repos\HelloWorld\DistanceBetweenTwoPoints\bin\Debug\net7.0\DistanceBetweenTwoPoints.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\DistanceBetweenTwoPoints\bin\Debug\net7.0\DistanceBetweenTwoPoints.dll
+C:\Users\DCL\source\repos\HelloWorld\DistanceBetweenTwoPoints\bin\Debug\net7.0\DistanceBetweenTwoPoints.pdb
+C:\Users\DCL\source\repos\HelloWorld\DistanceBetweenTwoPoints\obj\Debug\net7.0\DistanceBetweenTwoPoints.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\DistanceBetweenTwoPoints\obj\Debug\net7.0\DistanceBetweenTwoPoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\DistanceBetweenTwoPoints\obj\Debug\net7.0\DistanceBetweenTwoPoints.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\DistanceBetweenTwoPoints\obj\Debug\net7.0\DistanceBetweenTwoPoints.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\DistanceBetweenTwoPoints\obj\Debug\net7.0\DistanceBetweenTwoPoints.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\DistanceBetweenTwoPoints\obj\Debug\net7.0\DistanceBetweenTwoPoints.dll
+C:\Users\DCL\source\repos\HelloWorld\DistanceBetweenTwoPoints\obj\Debug\net7.0\refint\DistanceBetweenTwoPoints.dll
+C:\Users\DCL\source\repos\HelloWorld\DistanceBetweenTwoPoints\obj\Debug\net7.0\DistanceBetweenTwoPoints.pdb
+C:\Users\DCL\source\repos\HelloWorld\DistanceBetweenTwoPoints\obj\Debug\net7.0\DistanceBetweenTwoPoints.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\DistanceBetweenTwoPoints\obj\Debug\net7.0\ref\DistanceBetweenTwoPoints.dll

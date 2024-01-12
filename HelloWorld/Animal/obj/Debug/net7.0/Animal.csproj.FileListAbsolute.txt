@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\Animal\bin\Debug\net7.0\Animal.exe
+C:\Users\DCL\source\repos\HelloWorld\Animal\bin\Debug\net7.0\Animal.deps.json
+C:\Users\DCL\source\repos\HelloWorld\Animal\bin\Debug\net7.0\Animal.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\Animal\bin\Debug\net7.0\Animal.dll
+C:\Users\DCL\source\repos\HelloWorld\Animal\bin\Debug\net7.0\Animal.pdb
+C:\Users\DCL\source\repos\HelloWorld\Animal\obj\Debug\net7.0\Animal.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\Animal\obj\Debug\net7.0\Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\Animal\obj\Debug\net7.0\Animal.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Animal\obj\Debug\net7.0\Animal.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\Animal\obj\Debug\net7.0\Animal.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Animal\obj\Debug\net7.0\Animal.dll
+C:\Users\DCL\source\repos\HelloWorld\Animal\obj\Debug\net7.0\refint\Animal.dll
+C:\Users\DCL\source\repos\HelloWorld\Animal\obj\Debug\net7.0\Animal.pdb
+C:\Users\DCL\source\repos\HelloWorld\Animal\obj\Debug\net7.0\Animal.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\Animal\obj\Debug\net7.0\ref\Animal.dll

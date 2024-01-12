@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\TriangleTypes\bin\Debug\net7.0\TriangleTypes.exe
+C:\Users\DCL\source\repos\HelloWorld\TriangleTypes\bin\Debug\net7.0\TriangleTypes.deps.json
+C:\Users\DCL\source\repos\HelloWorld\TriangleTypes\bin\Debug\net7.0\TriangleTypes.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\TriangleTypes\bin\Debug\net7.0\TriangleTypes.dll
+C:\Users\DCL\source\repos\HelloWorld\TriangleTypes\bin\Debug\net7.0\TriangleTypes.pdb
+C:\Users\DCL\source\repos\HelloWorld\TriangleTypes\obj\Debug\net7.0\TriangleTypes.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\TriangleTypes\obj\Debug\net7.0\TriangleTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\TriangleTypes\obj\Debug\net7.0\TriangleTypes.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\TriangleTypes\obj\Debug\net7.0\TriangleTypes.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\TriangleTypes\obj\Debug\net7.0\TriangleTypes.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\TriangleTypes\obj\Debug\net7.0\TriangleTypes.dll
+C:\Users\DCL\source\repos\HelloWorld\TriangleTypes\obj\Debug\net7.0\refint\TriangleTypes.dll
+C:\Users\DCL\source\repos\HelloWorld\TriangleTypes\obj\Debug\net7.0\TriangleTypes.pdb
+C:\Users\DCL\source\repos\HelloWorld\TriangleTypes\obj\Debug\net7.0\TriangleTypes.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\TriangleTypes\obj\Debug\net7.0\ref\TriangleTypes.dll

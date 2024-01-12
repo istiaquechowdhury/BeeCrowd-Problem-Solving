@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\fibonaccyArray\bin\Debug\net7.0\fibonaccyArray.exe
+C:\Users\DCL\source\repos\HelloWorld\fibonaccyArray\bin\Debug\net7.0\fibonaccyArray.deps.json
+C:\Users\DCL\source\repos\HelloWorld\fibonaccyArray\bin\Debug\net7.0\fibonaccyArray.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\fibonaccyArray\bin\Debug\net7.0\fibonaccyArray.dll
+C:\Users\DCL\source\repos\HelloWorld\fibonaccyArray\bin\Debug\net7.0\fibonaccyArray.pdb
+C:\Users\DCL\source\repos\HelloWorld\fibonaccyArray\obj\Debug\net7.0\fibonaccyArray.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\fibonaccyArray\obj\Debug\net7.0\fibonaccyArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\fibonaccyArray\obj\Debug\net7.0\fibonaccyArray.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\fibonaccyArray\obj\Debug\net7.0\fibonaccyArray.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\fibonaccyArray\obj\Debug\net7.0\fibonaccyArray.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\fibonaccyArray\obj\Debug\net7.0\fibonaccyArray.dll
+C:\Users\DCL\source\repos\HelloWorld\fibonaccyArray\obj\Debug\net7.0\refint\fibonaccyArray.dll
+C:\Users\DCL\source\repos\HelloWorld\fibonaccyArray\obj\Debug\net7.0\fibonaccyArray.pdb
+C:\Users\DCL\source\repos\HelloWorld\fibonaccyArray\obj\Debug\net7.0\fibonaccyArray.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\fibonaccyArray\obj\Debug\net7.0\ref\fibonaccyArray.dll

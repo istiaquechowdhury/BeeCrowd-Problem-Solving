@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\Sphere\bin\Debug\net7.0\Sphere.exe
+C:\Users\DCL\source\repos\HelloWorld\Sphere\bin\Debug\net7.0\Sphere.deps.json
+C:\Users\DCL\source\repos\HelloWorld\Sphere\bin\Debug\net7.0\Sphere.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\Sphere\bin\Debug\net7.0\Sphere.dll
+C:\Users\DCL\source\repos\HelloWorld\Sphere\bin\Debug\net7.0\Sphere.pdb
+C:\Users\DCL\source\repos\HelloWorld\Sphere\obj\Debug\net7.0\Sphere.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\Sphere\obj\Debug\net7.0\Sphere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\Sphere\obj\Debug\net7.0\Sphere.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Sphere\obj\Debug\net7.0\Sphere.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\Sphere\obj\Debug\net7.0\Sphere.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Sphere\obj\Debug\net7.0\Sphere.dll
+C:\Users\DCL\source\repos\HelloWorld\Sphere\obj\Debug\net7.0\refint\Sphere.dll
+C:\Users\DCL\source\repos\HelloWorld\Sphere\obj\Debug\net7.0\Sphere.pdb
+C:\Users\DCL\source\repos\HelloWorld\Sphere\obj\Debug\net7.0\Sphere.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\Sphere\obj\Debug\net7.0\ref\Sphere.dll

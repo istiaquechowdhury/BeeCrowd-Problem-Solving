@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\ScoreValidation\bin\Debug\net7.0\ScoreValidation.exe
+C:\Users\DCL\source\repos\HelloWorld\ScoreValidation\bin\Debug\net7.0\ScoreValidation.deps.json
+C:\Users\DCL\source\repos\HelloWorld\ScoreValidation\bin\Debug\net7.0\ScoreValidation.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\ScoreValidation\bin\Debug\net7.0\ScoreValidation.dll
+C:\Users\DCL\source\repos\HelloWorld\ScoreValidation\bin\Debug\net7.0\ScoreValidation.pdb
+C:\Users\DCL\source\repos\HelloWorld\ScoreValidation\obj\Debug\net7.0\ScoreValidation.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\ScoreValidation\obj\Debug\net7.0\ScoreValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\ScoreValidation\obj\Debug\net7.0\ScoreValidation.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\ScoreValidation\obj\Debug\net7.0\ScoreValidation.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\ScoreValidation\obj\Debug\net7.0\ScoreValidation.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\ScoreValidation\obj\Debug\net7.0\ScoreValidation.dll
+C:\Users\DCL\source\repos\HelloWorld\ScoreValidation\obj\Debug\net7.0\refint\ScoreValidation.dll
+C:\Users\DCL\source\repos\HelloWorld\ScoreValidation\obj\Debug\net7.0\ScoreValidation.pdb
+C:\Users\DCL\source\repos\HelloWorld\ScoreValidation\obj\Debug\net7.0\ScoreValidation.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\ScoreValidation\obj\Debug\net7.0\ref\ScoreValidation.dll

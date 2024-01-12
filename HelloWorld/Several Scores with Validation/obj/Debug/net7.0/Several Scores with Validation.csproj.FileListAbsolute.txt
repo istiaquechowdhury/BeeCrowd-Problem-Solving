@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\Several Scores with Validation\bin\Debug\net7.0\Several Scores with Validation.exe
+C:\Users\DCL\source\repos\HelloWorld\Several Scores with Validation\bin\Debug\net7.0\Several Scores with Validation.deps.json
+C:\Users\DCL\source\repos\HelloWorld\Several Scores with Validation\bin\Debug\net7.0\Several Scores with Validation.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\Several Scores with Validation\bin\Debug\net7.0\Several Scores with Validation.dll
+C:\Users\DCL\source\repos\HelloWorld\Several Scores with Validation\bin\Debug\net7.0\Several Scores with Validation.pdb
+C:\Users\DCL\source\repos\HelloWorld\Several Scores with Validation\obj\Debug\net7.0\Several Scores with Validation.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\Several Scores with Validation\obj\Debug\net7.0\Several Scores with Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\Several Scores with Validation\obj\Debug\net7.0\Several Scores with Validation.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Several Scores with Validation\obj\Debug\net7.0\Several Scores with Validation.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\Several Scores with Validation\obj\Debug\net7.0\Several Scores with Validation.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Several Scores with Validation\obj\Debug\net7.0\Several Scores with Validation.dll
+C:\Users\DCL\source\repos\HelloWorld\Several Scores with Validation\obj\Debug\net7.0\refint\Several Scores with Validation.dll
+C:\Users\DCL\source\repos\HelloWorld\Several Scores with Validation\obj\Debug\net7.0\Several Scores with Validation.pdb
+C:\Users\DCL\source\repos\HelloWorld\Several Scores with Validation\obj\Debug\net7.0\Several Scores with Validation.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\Several Scores with Validation\obj\Debug\net7.0\ref\Several Scores with Validation.dll

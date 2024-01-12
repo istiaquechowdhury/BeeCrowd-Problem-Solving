@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\Interval\bin\Debug\net7.0\Interval.exe
+C:\Users\DCL\source\repos\HelloWorld\Interval\bin\Debug\net7.0\Interval.deps.json
+C:\Users\DCL\source\repos\HelloWorld\Interval\bin\Debug\net7.0\Interval.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\Interval\bin\Debug\net7.0\Interval.dll
+C:\Users\DCL\source\repos\HelloWorld\Interval\bin\Debug\net7.0\Interval.pdb
+C:\Users\DCL\source\repos\HelloWorld\Interval\obj\Debug\net7.0\Interval.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\Interval\obj\Debug\net7.0\Interval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\Interval\obj\Debug\net7.0\Interval.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Interval\obj\Debug\net7.0\Interval.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\Interval\obj\Debug\net7.0\Interval.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Interval\obj\Debug\net7.0\Interval.dll
+C:\Users\DCL\source\repos\HelloWorld\Interval\obj\Debug\net7.0\refint\Interval.dll
+C:\Users\DCL\source\repos\HelloWorld\Interval\obj\Debug\net7.0\Interval.pdb
+C:\Users\DCL\source\repos\HelloWorld\Interval\obj\Debug\net7.0\Interval.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\Interval\obj\Debug\net7.0\ref\Interval.dll

@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\ArrayChangeI\bin\Debug\net7.0\ArrayChangeI.exe
+C:\Users\DCL\source\repos\HelloWorld\ArrayChangeI\bin\Debug\net7.0\ArrayChangeI.deps.json
+C:\Users\DCL\source\repos\HelloWorld\ArrayChangeI\bin\Debug\net7.0\ArrayChangeI.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\ArrayChangeI\bin\Debug\net7.0\ArrayChangeI.dll
+C:\Users\DCL\source\repos\HelloWorld\ArrayChangeI\bin\Debug\net7.0\ArrayChangeI.pdb
+C:\Users\DCL\source\repos\HelloWorld\ArrayChangeI\obj\Debug\net7.0\ArrayChangeI.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\ArrayChangeI\obj\Debug\net7.0\ArrayChangeI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\ArrayChangeI\obj\Debug\net7.0\ArrayChangeI.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\ArrayChangeI\obj\Debug\net7.0\ArrayChangeI.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\ArrayChangeI\obj\Debug\net7.0\ArrayChangeI.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\ArrayChangeI\obj\Debug\net7.0\ArrayChangeI.dll
+C:\Users\DCL\source\repos\HelloWorld\ArrayChangeI\obj\Debug\net7.0\refint\ArrayChangeI.dll
+C:\Users\DCL\source\repos\HelloWorld\ArrayChangeI\obj\Debug\net7.0\ArrayChangeI.pdb
+C:\Users\DCL\source\repos\HelloWorld\ArrayChangeI\obj\Debug\net7.0\ArrayChangeI.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\ArrayChangeI\obj\Debug\net7.0\ref\ArrayChangeI.dll

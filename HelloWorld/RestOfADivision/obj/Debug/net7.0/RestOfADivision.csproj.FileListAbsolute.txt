@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\RestOfADivision\bin\Debug\net7.0\RestOfADivision.exe
+C:\Users\DCL\source\repos\HelloWorld\RestOfADivision\bin\Debug\net7.0\RestOfADivision.deps.json
+C:\Users\DCL\source\repos\HelloWorld\RestOfADivision\bin\Debug\net7.0\RestOfADivision.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\RestOfADivision\bin\Debug\net7.0\RestOfADivision.dll
+C:\Users\DCL\source\repos\HelloWorld\RestOfADivision\bin\Debug\net7.0\RestOfADivision.pdb
+C:\Users\DCL\source\repos\HelloWorld\RestOfADivision\obj\Debug\net7.0\RestOfADivision.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\RestOfADivision\obj\Debug\net7.0\RestOfADivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\RestOfADivision\obj\Debug\net7.0\RestOfADivision.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\RestOfADivision\obj\Debug\net7.0\RestOfADivision.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\RestOfADivision\obj\Debug\net7.0\RestOfADivision.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\RestOfADivision\obj\Debug\net7.0\RestOfADivision.dll
+C:\Users\DCL\source\repos\HelloWorld\RestOfADivision\obj\Debug\net7.0\refint\RestOfADivision.dll
+C:\Users\DCL\source\repos\HelloWorld\RestOfADivision\obj\Debug\net7.0\RestOfADivision.pdb
+C:\Users\DCL\source\repos\HelloWorld\RestOfADivision\obj\Debug\net7.0\RestOfADivision.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\RestOfADivision\obj\Debug\net7.0\ref\RestOfADivision.dll

@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\ExtremlyBasic\bin\Debug\net7.0\ExtremlyBasic.exe
+C:\Users\DCL\source\repos\HelloWorld\ExtremlyBasic\bin\Debug\net7.0\ExtremlyBasic.deps.json
+C:\Users\DCL\source\repos\HelloWorld\ExtremlyBasic\bin\Debug\net7.0\ExtremlyBasic.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\ExtremlyBasic\bin\Debug\net7.0\ExtremlyBasic.dll
+C:\Users\DCL\source\repos\HelloWorld\ExtremlyBasic\bin\Debug\net7.0\ExtremlyBasic.pdb
+C:\Users\DCL\source\repos\HelloWorld\ExtremlyBasic\obj\Debug\net7.0\ExtremlyBasic.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\ExtremlyBasic\obj\Debug\net7.0\ExtremlyBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\ExtremlyBasic\obj\Debug\net7.0\ExtremlyBasic.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\ExtremlyBasic\obj\Debug\net7.0\ExtremlyBasic.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\ExtremlyBasic\obj\Debug\net7.0\ExtremlyBasic.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\ExtremlyBasic\obj\Debug\net7.0\ExtremlyBasic.dll
+C:\Users\DCL\source\repos\HelloWorld\ExtremlyBasic\obj\Debug\net7.0\refint\ExtremlyBasic.dll
+C:\Users\DCL\source\repos\HelloWorld\ExtremlyBasic\obj\Debug\net7.0\ExtremlyBasic.pdb
+C:\Users\DCL\source\repos\HelloWorld\ExtremlyBasic\obj\Debug\net7.0\ExtremlyBasic.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\ExtremlyBasic\obj\Debug\net7.0\ref\ExtremlyBasic.dll

@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\SimpleFactorial\bin\Debug\net7.0\SimpleFactorial.exe
+C:\Users\DCL\source\repos\HelloWorld\SimpleFactorial\bin\Debug\net7.0\SimpleFactorial.deps.json
+C:\Users\DCL\source\repos\HelloWorld\SimpleFactorial\bin\Debug\net7.0\SimpleFactorial.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\SimpleFactorial\bin\Debug\net7.0\SimpleFactorial.dll
+C:\Users\DCL\source\repos\HelloWorld\SimpleFactorial\bin\Debug\net7.0\SimpleFactorial.pdb
+C:\Users\DCL\source\repos\HelloWorld\SimpleFactorial\obj\Debug\net7.0\SimpleFactorial.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\SimpleFactorial\obj\Debug\net7.0\SimpleFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\SimpleFactorial\obj\Debug\net7.0\SimpleFactorial.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SimpleFactorial\obj\Debug\net7.0\SimpleFactorial.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\SimpleFactorial\obj\Debug\net7.0\SimpleFactorial.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SimpleFactorial\obj\Debug\net7.0\SimpleFactorial.dll
+C:\Users\DCL\source\repos\HelloWorld\SimpleFactorial\obj\Debug\net7.0\refint\SimpleFactorial.dll
+C:\Users\DCL\source\repos\HelloWorld\SimpleFactorial\obj\Debug\net7.0\SimpleFactorial.pdb
+C:\Users\DCL\source\repos\HelloWorld\SimpleFactorial\obj\Debug\net7.0\SimpleFactorial.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\SimpleFactorial\obj\Debug\net7.0\ref\SimpleFactorial.dll

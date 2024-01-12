@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\EvenSquare\bin\Debug\net7.0\EvenSquare.exe
+C:\Users\DCL\source\repos\HelloWorld\EvenSquare\bin\Debug\net7.0\EvenSquare.deps.json
+C:\Users\DCL\source\repos\HelloWorld\EvenSquare\bin\Debug\net7.0\EvenSquare.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\EvenSquare\bin\Debug\net7.0\EvenSquare.dll
+C:\Users\DCL\source\repos\HelloWorld\EvenSquare\bin\Debug\net7.0\EvenSquare.pdb
+C:\Users\DCL\source\repos\HelloWorld\EvenSquare\obj\Debug\net7.0\EvenSquare.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\EvenSquare\obj\Debug\net7.0\EvenSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\EvenSquare\obj\Debug\net7.0\EvenSquare.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\EvenSquare\obj\Debug\net7.0\EvenSquare.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\EvenSquare\obj\Debug\net7.0\EvenSquare.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\EvenSquare\obj\Debug\net7.0\EvenSquare.dll
+C:\Users\DCL\source\repos\HelloWorld\EvenSquare\obj\Debug\net7.0\refint\EvenSquare.dll
+C:\Users\DCL\source\repos\HelloWorld\EvenSquare\obj\Debug\net7.0\EvenSquare.pdb
+C:\Users\DCL\source\repos\HelloWorld\EvenSquare\obj\Debug\net7.0\EvenSquare.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\EvenSquare\obj\Debug\net7.0\ref\EvenSquare.dll

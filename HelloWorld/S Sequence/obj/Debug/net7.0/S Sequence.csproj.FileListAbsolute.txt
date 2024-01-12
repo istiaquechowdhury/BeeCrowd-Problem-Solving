@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\S Sequence\bin\Debug\net7.0\S Sequence.exe
+C:\Users\DCL\source\repos\HelloWorld\S Sequence\bin\Debug\net7.0\S Sequence.deps.json
+C:\Users\DCL\source\repos\HelloWorld\S Sequence\bin\Debug\net7.0\S Sequence.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\S Sequence\bin\Debug\net7.0\S Sequence.dll
+C:\Users\DCL\source\repos\HelloWorld\S Sequence\bin\Debug\net7.0\S Sequence.pdb
+C:\Users\DCL\source\repos\HelloWorld\S Sequence\obj\Debug\net7.0\S Sequence.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\S Sequence\obj\Debug\net7.0\S Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\S Sequence\obj\Debug\net7.0\S Sequence.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\S Sequence\obj\Debug\net7.0\S Sequence.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\S Sequence\obj\Debug\net7.0\S Sequence.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\S Sequence\obj\Debug\net7.0\S Sequence.dll
+C:\Users\DCL\source\repos\HelloWorld\S Sequence\obj\Debug\net7.0\refint\S Sequence.dll
+C:\Users\DCL\source\repos\HelloWorld\S Sequence\obj\Debug\net7.0\S Sequence.pdb
+C:\Users\DCL\source\repos\HelloWorld\S Sequence\obj\Debug\net7.0\S Sequence.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\S Sequence\obj\Debug\net7.0\ref\S Sequence.dll

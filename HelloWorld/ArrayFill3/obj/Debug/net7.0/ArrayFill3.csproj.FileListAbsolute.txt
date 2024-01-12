@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\ArrayFill3\bin\Debug\net7.0\ArrayFill3.exe
+C:\Users\DCL\source\repos\HelloWorld\ArrayFill3\bin\Debug\net7.0\ArrayFill3.deps.json
+C:\Users\DCL\source\repos\HelloWorld\ArrayFill3\bin\Debug\net7.0\ArrayFill3.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\ArrayFill3\bin\Debug\net7.0\ArrayFill3.dll
+C:\Users\DCL\source\repos\HelloWorld\ArrayFill3\bin\Debug\net7.0\ArrayFill3.pdb
+C:\Users\DCL\source\repos\HelloWorld\ArrayFill3\obj\Debug\net7.0\ArrayFill3.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\ArrayFill3\obj\Debug\net7.0\ArrayFill3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\ArrayFill3\obj\Debug\net7.0\ArrayFill3.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\ArrayFill3\obj\Debug\net7.0\ArrayFill3.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\ArrayFill3\obj\Debug\net7.0\ArrayFill3.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\ArrayFill3\obj\Debug\net7.0\ArrayFill3.dll
+C:\Users\DCL\source\repos\HelloWorld\ArrayFill3\obj\Debug\net7.0\refint\ArrayFill3.dll
+C:\Users\DCL\source\repos\HelloWorld\ArrayFill3\obj\Debug\net7.0\ArrayFill3.pdb
+C:\Users\DCL\source\repos\HelloWorld\ArrayFill3\obj\Debug\net7.0\ArrayFill3.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\ArrayFill3\obj\Debug\net7.0\ref\ArrayFill3.dll

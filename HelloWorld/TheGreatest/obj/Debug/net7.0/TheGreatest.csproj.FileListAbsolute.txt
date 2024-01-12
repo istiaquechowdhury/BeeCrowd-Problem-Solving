@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\TheGreatest\bin\Debug\net7.0\TheGreatest.exe
+C:\Users\DCL\source\repos\HelloWorld\TheGreatest\bin\Debug\net7.0\TheGreatest.deps.json
+C:\Users\DCL\source\repos\HelloWorld\TheGreatest\bin\Debug\net7.0\TheGreatest.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\TheGreatest\bin\Debug\net7.0\TheGreatest.dll
+C:\Users\DCL\source\repos\HelloWorld\TheGreatest\bin\Debug\net7.0\TheGreatest.pdb
+C:\Users\DCL\source\repos\HelloWorld\TheGreatest\obj\Debug\net7.0\TheGreatest.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\TheGreatest\obj\Debug\net7.0\TheGreatest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\TheGreatest\obj\Debug\net7.0\TheGreatest.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\TheGreatest\obj\Debug\net7.0\TheGreatest.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\TheGreatest\obj\Debug\net7.0\TheGreatest.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\TheGreatest\obj\Debug\net7.0\TheGreatest.dll
+C:\Users\DCL\source\repos\HelloWorld\TheGreatest\obj\Debug\net7.0\refint\TheGreatest.dll
+C:\Users\DCL\source\repos\HelloWorld\TheGreatest\obj\Debug\net7.0\TheGreatest.pdb
+C:\Users\DCL\source\repos\HelloWorld\TheGreatest\obj\Debug\net7.0\TheGreatest.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\TheGreatest\obj\Debug\net7.0\ref\TheGreatest.dll

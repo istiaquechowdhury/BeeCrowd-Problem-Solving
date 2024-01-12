@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\Average2\bin\Debug\net7.0\Average2.exe
+C:\Users\DCL\source\repos\HelloWorld\Average2\bin\Debug\net7.0\Average2.deps.json
+C:\Users\DCL\source\repos\HelloWorld\Average2\bin\Debug\net7.0\Average2.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\Average2\bin\Debug\net7.0\Average2.dll
+C:\Users\DCL\source\repos\HelloWorld\Average2\bin\Debug\net7.0\Average2.pdb
+C:\Users\DCL\source\repos\HelloWorld\Average2\obj\Debug\net7.0\Average2.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\Average2\obj\Debug\net7.0\Average2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\Average2\obj\Debug\net7.0\Average2.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Average2\obj\Debug\net7.0\Average2.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\Average2\obj\Debug\net7.0\Average2.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Average2\obj\Debug\net7.0\Average2.dll
+C:\Users\DCL\source\repos\HelloWorld\Average2\obj\Debug\net7.0\refint\Average2.dll
+C:\Users\DCL\source\repos\HelloWorld\Average2\obj\Debug\net7.0\Average2.pdb
+C:\Users\DCL\source\repos\HelloWorld\Average2\obj\Debug\net7.0\Average2.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\Average2\obj\Debug\net7.0\ref\Average2.dll

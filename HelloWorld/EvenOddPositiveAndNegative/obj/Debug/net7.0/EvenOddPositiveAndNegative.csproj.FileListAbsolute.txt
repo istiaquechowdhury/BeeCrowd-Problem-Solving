@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\EvenOddPositiveAndNegative\bin\Debug\net7.0\EvenOddPositiveAndNegative.exe
+C:\Users\DCL\source\repos\HelloWorld\EvenOddPositiveAndNegative\bin\Debug\net7.0\EvenOddPositiveAndNegative.deps.json
+C:\Users\DCL\source\repos\HelloWorld\EvenOddPositiveAndNegative\bin\Debug\net7.0\EvenOddPositiveAndNegative.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\EvenOddPositiveAndNegative\bin\Debug\net7.0\EvenOddPositiveAndNegative.dll
+C:\Users\DCL\source\repos\HelloWorld\EvenOddPositiveAndNegative\bin\Debug\net7.0\EvenOddPositiveAndNegative.pdb
+C:\Users\DCL\source\repos\HelloWorld\EvenOddPositiveAndNegative\obj\Debug\net7.0\EvenOddPositiveAndNegative.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\EvenOddPositiveAndNegative\obj\Debug\net7.0\EvenOddPositiveAndNegative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\EvenOddPositiveAndNegative\obj\Debug\net7.0\EvenOddPositiveAndNegative.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\EvenOddPositiveAndNegative\obj\Debug\net7.0\EvenOddPositiveAndNegative.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\EvenOddPositiveAndNegative\obj\Debug\net7.0\EvenOddPositiveAndNegative.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\EvenOddPositiveAndNegative\obj\Debug\net7.0\EvenOddPositiveAndNegative.dll
+C:\Users\DCL\source\repos\HelloWorld\EvenOddPositiveAndNegative\obj\Debug\net7.0\refint\EvenOddPositiveAndNegative.dll
+C:\Users\DCL\source\repos\HelloWorld\EvenOddPositiveAndNegative\obj\Debug\net7.0\EvenOddPositiveAndNegative.pdb
+C:\Users\DCL\source\repos\HelloWorld\EvenOddPositiveAndNegative\obj\Debug\net7.0\EvenOddPositiveAndNegative.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\EvenOddPositiveAndNegative\obj\Debug\net7.0\ref\EvenOddPositiveAndNegative.dll

@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\Quadrant\bin\Debug\net7.0\Quadrant.exe
+C:\Users\DCL\source\repos\HelloWorld\Quadrant\bin\Debug\net7.0\Quadrant.deps.json
+C:\Users\DCL\source\repos\HelloWorld\Quadrant\bin\Debug\net7.0\Quadrant.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\Quadrant\bin\Debug\net7.0\Quadrant.dll
+C:\Users\DCL\source\repos\HelloWorld\Quadrant\bin\Debug\net7.0\Quadrant.pdb
+C:\Users\DCL\source\repos\HelloWorld\Quadrant\obj\Debug\net7.0\Quadrant.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\Quadrant\obj\Debug\net7.0\Quadrant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\Quadrant\obj\Debug\net7.0\Quadrant.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Quadrant\obj\Debug\net7.0\Quadrant.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\Quadrant\obj\Debug\net7.0\Quadrant.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Quadrant\obj\Debug\net7.0\Quadrant.dll
+C:\Users\DCL\source\repos\HelloWorld\Quadrant\obj\Debug\net7.0\refint\Quadrant.dll
+C:\Users\DCL\source\repos\HelloWorld\Quadrant\obj\Debug\net7.0\Quadrant.pdb
+C:\Users\DCL\source\repos\HelloWorld\Quadrant\obj\Debug\net7.0\Quadrant.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\Quadrant\obj\Debug\net7.0\ref\Quadrant.dll

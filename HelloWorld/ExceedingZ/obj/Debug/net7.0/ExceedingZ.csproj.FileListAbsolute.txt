@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\ExceedingZ\bin\Debug\net7.0\ExceedingZ.exe
+C:\Users\DCL\source\repos\HelloWorld\ExceedingZ\bin\Debug\net7.0\ExceedingZ.deps.json
+C:\Users\DCL\source\repos\HelloWorld\ExceedingZ\bin\Debug\net7.0\ExceedingZ.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\ExceedingZ\bin\Debug\net7.0\ExceedingZ.dll
+C:\Users\DCL\source\repos\HelloWorld\ExceedingZ\bin\Debug\net7.0\ExceedingZ.pdb
+C:\Users\DCL\source\repos\HelloWorld\ExceedingZ\obj\Debug\net7.0\ExceedingZ.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\ExceedingZ\obj\Debug\net7.0\ExceedingZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\ExceedingZ\obj\Debug\net7.0\ExceedingZ.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\ExceedingZ\obj\Debug\net7.0\ExceedingZ.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\ExceedingZ\obj\Debug\net7.0\ExceedingZ.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\ExceedingZ\obj\Debug\net7.0\ExceedingZ.dll
+C:\Users\DCL\source\repos\HelloWorld\ExceedingZ\obj\Debug\net7.0\refint\ExceedingZ.dll
+C:\Users\DCL\source\repos\HelloWorld\ExceedingZ\obj\Debug\net7.0\ExceedingZ.pdb
+C:\Users\DCL\source\repos\HelloWorld\ExceedingZ\obj\Debug\net7.0\ExceedingZ.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\ExceedingZ\obj\Debug\net7.0\ref\ExceedingZ.dll

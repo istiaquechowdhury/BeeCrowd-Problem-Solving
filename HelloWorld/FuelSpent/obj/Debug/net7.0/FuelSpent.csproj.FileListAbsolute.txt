@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\FuelSpent\bin\Debug\net7.0\FuelSpent.exe
+C:\Users\DCL\source\repos\HelloWorld\FuelSpent\bin\Debug\net7.0\FuelSpent.deps.json
+C:\Users\DCL\source\repos\HelloWorld\FuelSpent\bin\Debug\net7.0\FuelSpent.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\FuelSpent\bin\Debug\net7.0\FuelSpent.dll
+C:\Users\DCL\source\repos\HelloWorld\FuelSpent\bin\Debug\net7.0\FuelSpent.pdb
+C:\Users\DCL\source\repos\HelloWorld\FuelSpent\obj\Debug\net7.0\FuelSpent.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\FuelSpent\obj\Debug\net7.0\FuelSpent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\FuelSpent\obj\Debug\net7.0\FuelSpent.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\FuelSpent\obj\Debug\net7.0\FuelSpent.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\FuelSpent\obj\Debug\net7.0\FuelSpent.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\FuelSpent\obj\Debug\net7.0\FuelSpent.dll
+C:\Users\DCL\source\repos\HelloWorld\FuelSpent\obj\Debug\net7.0\refint\FuelSpent.dll
+C:\Users\DCL\source\repos\HelloWorld\FuelSpent\obj\Debug\net7.0\FuelSpent.pdb
+C:\Users\DCL\source\repos\HelloWorld\FuelSpent\obj\Debug\net7.0\FuelSpent.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\FuelSpent\obj\Debug\net7.0\ref\FuelSpent.dll

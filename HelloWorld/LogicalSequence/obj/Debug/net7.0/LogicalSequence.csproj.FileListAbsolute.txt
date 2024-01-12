@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\LogicalSequence\bin\Debug\net7.0\LogicalSequence.exe
+C:\Users\DCL\source\repos\HelloWorld\LogicalSequence\bin\Debug\net7.0\LogicalSequence.deps.json
+C:\Users\DCL\source\repos\HelloWorld\LogicalSequence\bin\Debug\net7.0\LogicalSequence.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\LogicalSequence\bin\Debug\net7.0\LogicalSequence.dll
+C:\Users\DCL\source\repos\HelloWorld\LogicalSequence\bin\Debug\net7.0\LogicalSequence.pdb
+C:\Users\DCL\source\repos\HelloWorld\LogicalSequence\obj\Debug\net7.0\LogicalSequence.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\LogicalSequence\obj\Debug\net7.0\LogicalSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\LogicalSequence\obj\Debug\net7.0\LogicalSequence.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\LogicalSequence\obj\Debug\net7.0\LogicalSequence.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\LogicalSequence\obj\Debug\net7.0\LogicalSequence.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\LogicalSequence\obj\Debug\net7.0\LogicalSequence.dll
+C:\Users\DCL\source\repos\HelloWorld\LogicalSequence\obj\Debug\net7.0\refint\LogicalSequence.dll
+C:\Users\DCL\source\repos\HelloWorld\LogicalSequence\obj\Debug\net7.0\LogicalSequence.pdb
+C:\Users\DCL\source\repos\HelloWorld\LogicalSequence\obj\Debug\net7.0\LogicalSequence.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\LogicalSequence\obj\Debug\net7.0\ref\LogicalSequence.dll

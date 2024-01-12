@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\dividingXbyY\bin\Debug\net7.0\dividingXbyY.exe
+C:\Users\DCL\source\repos\HelloWorld\dividingXbyY\bin\Debug\net7.0\dividingXbyY.deps.json
+C:\Users\DCL\source\repos\HelloWorld\dividingXbyY\bin\Debug\net7.0\dividingXbyY.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\dividingXbyY\bin\Debug\net7.0\dividingXbyY.dll
+C:\Users\DCL\source\repos\HelloWorld\dividingXbyY\bin\Debug\net7.0\dividingXbyY.pdb
+C:\Users\DCL\source\repos\HelloWorld\dividingXbyY\obj\Debug\net7.0\dividingXbyY.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\dividingXbyY\obj\Debug\net7.0\dividingXbyY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\dividingXbyY\obj\Debug\net7.0\dividingXbyY.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\dividingXbyY\obj\Debug\net7.0\dividingXbyY.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\dividingXbyY\obj\Debug\net7.0\dividingXbyY.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\dividingXbyY\obj\Debug\net7.0\dividingXbyY.dll
+C:\Users\DCL\source\repos\HelloWorld\dividingXbyY\obj\Debug\net7.0\refint\dividingXbyY.dll
+C:\Users\DCL\source\repos\HelloWorld\dividingXbyY\obj\Debug\net7.0\dividingXbyY.pdb
+C:\Users\DCL\source\repos\HelloWorld\dividingXbyY\obj\Debug\net7.0\dividingXbyY.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\dividingXbyY\obj\Debug\net7.0\ref\dividingXbyY.dll

@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\GameTime\bin\Debug\net7.0\GameTime.exe
+C:\Users\DCL\source\repos\HelloWorld\GameTime\bin\Debug\net7.0\GameTime.deps.json
+C:\Users\DCL\source\repos\HelloWorld\GameTime\bin\Debug\net7.0\GameTime.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\GameTime\bin\Debug\net7.0\GameTime.dll
+C:\Users\DCL\source\repos\HelloWorld\GameTime\bin\Debug\net7.0\GameTime.pdb
+C:\Users\DCL\source\repos\HelloWorld\GameTime\obj\Debug\net7.0\GameTime.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\GameTime\obj\Debug\net7.0\GameTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\GameTime\obj\Debug\net7.0\GameTime.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\GameTime\obj\Debug\net7.0\GameTime.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\GameTime\obj\Debug\net7.0\GameTime.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\GameTime\obj\Debug\net7.0\GameTime.dll
+C:\Users\DCL\source\repos\HelloWorld\GameTime\obj\Debug\net7.0\refint\GameTime.dll
+C:\Users\DCL\source\repos\HelloWorld\GameTime\obj\Debug\net7.0\GameTime.pdb
+C:\Users\DCL\source\repos\HelloWorld\GameTime\obj\Debug\net7.0\GameTime.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\GameTime\obj\Debug\net7.0\ref\GameTime.dll

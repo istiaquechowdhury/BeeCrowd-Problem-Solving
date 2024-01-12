@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\AscendingAndDescending\bin\Debug\net7.0\AscendingAndDescending.exe
+C:\Users\DCL\source\repos\HelloWorld\AscendingAndDescending\bin\Debug\net7.0\AscendingAndDescending.deps.json
+C:\Users\DCL\source\repos\HelloWorld\AscendingAndDescending\bin\Debug\net7.0\AscendingAndDescending.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\AscendingAndDescending\bin\Debug\net7.0\AscendingAndDescending.dll
+C:\Users\DCL\source\repos\HelloWorld\AscendingAndDescending\bin\Debug\net7.0\AscendingAndDescending.pdb
+C:\Users\DCL\source\repos\HelloWorld\AscendingAndDescending\obj\Debug\net7.0\AscendingAndDescending.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\AscendingAndDescending\obj\Debug\net7.0\AscendingAndDescending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\AscendingAndDescending\obj\Debug\net7.0\AscendingAndDescending.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\AscendingAndDescending\obj\Debug\net7.0\AscendingAndDescending.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\AscendingAndDescending\obj\Debug\net7.0\AscendingAndDescending.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\AscendingAndDescending\obj\Debug\net7.0\AscendingAndDescending.dll
+C:\Users\DCL\source\repos\HelloWorld\AscendingAndDescending\obj\Debug\net7.0\refint\AscendingAndDescending.dll
+C:\Users\DCL\source\repos\HelloWorld\AscendingAndDescending\obj\Debug\net7.0\AscendingAndDescending.pdb
+C:\Users\DCL\source\repos\HelloWorld\AscendingAndDescending\obj\Debug\net7.0\AscendingAndDescending.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\AscendingAndDescending\obj\Debug\net7.0\ref\AscendingAndDescending.dll

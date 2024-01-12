@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\ArrayReplacement1\bin\Debug\net7.0\ArrayReplacement1.exe
+C:\Users\DCL\source\repos\HelloWorld\ArrayReplacement1\bin\Debug\net7.0\ArrayReplacement1.deps.json
+C:\Users\DCL\source\repos\HelloWorld\ArrayReplacement1\bin\Debug\net7.0\ArrayReplacement1.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\ArrayReplacement1\bin\Debug\net7.0\ArrayReplacement1.dll
+C:\Users\DCL\source\repos\HelloWorld\ArrayReplacement1\bin\Debug\net7.0\ArrayReplacement1.pdb
+C:\Users\DCL\source\repos\HelloWorld\ArrayReplacement1\obj\Debug\net7.0\ArrayReplacement1.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\ArrayReplacement1\obj\Debug\net7.0\ArrayReplacement1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\ArrayReplacement1\obj\Debug\net7.0\ArrayReplacement1.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\ArrayReplacement1\obj\Debug\net7.0\ArrayReplacement1.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\ArrayReplacement1\obj\Debug\net7.0\ArrayReplacement1.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\ArrayReplacement1\obj\Debug\net7.0\ArrayReplacement1.dll
+C:\Users\DCL\source\repos\HelloWorld\ArrayReplacement1\obj\Debug\net7.0\refint\ArrayReplacement1.dll
+C:\Users\DCL\source\repos\HelloWorld\ArrayReplacement1\obj\Debug\net7.0\ArrayReplacement1.pdb
+C:\Users\DCL\source\repos\HelloWorld\ArrayReplacement1\obj\Debug\net7.0\ArrayReplacement1.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\ArrayReplacement1\obj\Debug\net7.0\ref\ArrayReplacement1.dll

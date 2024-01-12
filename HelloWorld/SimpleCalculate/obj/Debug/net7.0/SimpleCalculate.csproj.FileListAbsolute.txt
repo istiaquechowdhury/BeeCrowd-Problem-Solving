@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\SimpleCalculate\bin\Debug\net7.0\SimpleCalculate.exe
+C:\Users\DCL\source\repos\HelloWorld\SimpleCalculate\bin\Debug\net7.0\SimpleCalculate.deps.json
+C:\Users\DCL\source\repos\HelloWorld\SimpleCalculate\bin\Debug\net7.0\SimpleCalculate.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\SimpleCalculate\bin\Debug\net7.0\SimpleCalculate.dll
+C:\Users\DCL\source\repos\HelloWorld\SimpleCalculate\bin\Debug\net7.0\SimpleCalculate.pdb
+C:\Users\DCL\source\repos\HelloWorld\SimpleCalculate\obj\Debug\net7.0\SimpleCalculate.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\SimpleCalculate\obj\Debug\net7.0\SimpleCalculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\SimpleCalculate\obj\Debug\net7.0\SimpleCalculate.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SimpleCalculate\obj\Debug\net7.0\SimpleCalculate.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\SimpleCalculate\obj\Debug\net7.0\SimpleCalculate.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SimpleCalculate\obj\Debug\net7.0\SimpleCalculate.dll
+C:\Users\DCL\source\repos\HelloWorld\SimpleCalculate\obj\Debug\net7.0\refint\SimpleCalculate.dll
+C:\Users\DCL\source\repos\HelloWorld\SimpleCalculate\obj\Debug\net7.0\SimpleCalculate.pdb
+C:\Users\DCL\source\repos\HelloWorld\SimpleCalculate\obj\Debug\net7.0\SimpleCalculate.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\SimpleCalculate\obj\Debug\net7.0\ref\SimpleCalculate.dll

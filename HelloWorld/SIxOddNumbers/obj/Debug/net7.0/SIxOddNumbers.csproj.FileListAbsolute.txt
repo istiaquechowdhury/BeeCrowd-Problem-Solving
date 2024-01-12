@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\SIxOddNumbers\bin\Debug\net7.0\SIxOddNumbers.exe
+C:\Users\DCL\source\repos\HelloWorld\SIxOddNumbers\bin\Debug\net7.0\SIxOddNumbers.deps.json
+C:\Users\DCL\source\repos\HelloWorld\SIxOddNumbers\bin\Debug\net7.0\SIxOddNumbers.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\SIxOddNumbers\bin\Debug\net7.0\SIxOddNumbers.dll
+C:\Users\DCL\source\repos\HelloWorld\SIxOddNumbers\bin\Debug\net7.0\SIxOddNumbers.pdb
+C:\Users\DCL\source\repos\HelloWorld\SIxOddNumbers\obj\Debug\net7.0\SIxOddNumbers.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\SIxOddNumbers\obj\Debug\net7.0\SIxOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\SIxOddNumbers\obj\Debug\net7.0\SIxOddNumbers.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SIxOddNumbers\obj\Debug\net7.0\SIxOddNumbers.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\SIxOddNumbers\obj\Debug\net7.0\SIxOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SIxOddNumbers\obj\Debug\net7.0\SIxOddNumbers.dll
+C:\Users\DCL\source\repos\HelloWorld\SIxOddNumbers\obj\Debug\net7.0\refint\SIxOddNumbers.dll
+C:\Users\DCL\source\repos\HelloWorld\SIxOddNumbers\obj\Debug\net7.0\SIxOddNumbers.pdb
+C:\Users\DCL\source\repos\HelloWorld\SIxOddNumbers\obj\Debug\net7.0\SIxOddNumbers.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\SIxOddNumbers\obj\Debug\net7.0\ref\SIxOddNumbers.dll

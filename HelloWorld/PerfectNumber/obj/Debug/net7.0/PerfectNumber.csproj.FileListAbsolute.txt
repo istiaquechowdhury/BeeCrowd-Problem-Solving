@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\PerfectNumber\bin\Debug\net7.0\PerfectNumber.exe
+C:\Users\DCL\source\repos\HelloWorld\PerfectNumber\bin\Debug\net7.0\PerfectNumber.deps.json
+C:\Users\DCL\source\repos\HelloWorld\PerfectNumber\bin\Debug\net7.0\PerfectNumber.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\PerfectNumber\bin\Debug\net7.0\PerfectNumber.dll
+C:\Users\DCL\source\repos\HelloWorld\PerfectNumber\bin\Debug\net7.0\PerfectNumber.pdb
+C:\Users\DCL\source\repos\HelloWorld\PerfectNumber\obj\Debug\net7.0\PerfectNumber.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\PerfectNumber\obj\Debug\net7.0\PerfectNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\PerfectNumber\obj\Debug\net7.0\PerfectNumber.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\PerfectNumber\obj\Debug\net7.0\PerfectNumber.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\PerfectNumber\obj\Debug\net7.0\PerfectNumber.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\PerfectNumber\obj\Debug\net7.0\PerfectNumber.dll
+C:\Users\DCL\source\repos\HelloWorld\PerfectNumber\obj\Debug\net7.0\refint\PerfectNumber.dll
+C:\Users\DCL\source\repos\HelloWorld\PerfectNumber\obj\Debug\net7.0\PerfectNumber.pdb
+C:\Users\DCL\source\repos\HelloWorld\PerfectNumber\obj\Debug\net7.0\PerfectNumber.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\PerfectNumber\obj\Debug\net7.0\ref\PerfectNumber.dll

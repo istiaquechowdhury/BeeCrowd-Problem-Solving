@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\Sequence IJ3\bin\Debug\net7.0\Sequence IJ3.exe
+C:\Users\DCL\source\repos\HelloWorld\Sequence IJ3\bin\Debug\net7.0\Sequence IJ3.deps.json
+C:\Users\DCL\source\repos\HelloWorld\Sequence IJ3\bin\Debug\net7.0\Sequence IJ3.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\Sequence IJ3\bin\Debug\net7.0\Sequence IJ3.dll
+C:\Users\DCL\source\repos\HelloWorld\Sequence IJ3\bin\Debug\net7.0\Sequence IJ3.pdb
+C:\Users\DCL\source\repos\HelloWorld\Sequence IJ3\obj\Debug\net7.0\Sequence IJ3.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\Sequence IJ3\obj\Debug\net7.0\Sequence IJ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\Sequence IJ3\obj\Debug\net7.0\Sequence IJ3.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Sequence IJ3\obj\Debug\net7.0\Sequence IJ3.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\Sequence IJ3\obj\Debug\net7.0\Sequence IJ3.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Sequence IJ3\obj\Debug\net7.0\Sequence IJ3.dll
+C:\Users\DCL\source\repos\HelloWorld\Sequence IJ3\obj\Debug\net7.0\refint\Sequence IJ3.dll
+C:\Users\DCL\source\repos\HelloWorld\Sequence IJ3\obj\Debug\net7.0\Sequence IJ3.pdb
+C:\Users\DCL\source\repos\HelloWorld\Sequence IJ3\obj\Debug\net7.0\Sequence IJ3.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\Sequence IJ3\obj\Debug\net7.0\ref\Sequence IJ3.dll

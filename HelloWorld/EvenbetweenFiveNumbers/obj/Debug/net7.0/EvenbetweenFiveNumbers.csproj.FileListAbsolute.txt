@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\EvenbetweenFiveNumbers\bin\Debug\net7.0\EvenbetweenFiveNumbers.exe
+C:\Users\DCL\source\repos\HelloWorld\EvenbetweenFiveNumbers\bin\Debug\net7.0\EvenbetweenFiveNumbers.deps.json
+C:\Users\DCL\source\repos\HelloWorld\EvenbetweenFiveNumbers\bin\Debug\net7.0\EvenbetweenFiveNumbers.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\EvenbetweenFiveNumbers\bin\Debug\net7.0\EvenbetweenFiveNumbers.dll
+C:\Users\DCL\source\repos\HelloWorld\EvenbetweenFiveNumbers\bin\Debug\net7.0\EvenbetweenFiveNumbers.pdb
+C:\Users\DCL\source\repos\HelloWorld\EvenbetweenFiveNumbers\obj\Debug\net7.0\EvenbetweenFiveNumbers.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\EvenbetweenFiveNumbers\obj\Debug\net7.0\EvenbetweenFiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\EvenbetweenFiveNumbers\obj\Debug\net7.0\EvenbetweenFiveNumbers.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\EvenbetweenFiveNumbers\obj\Debug\net7.0\EvenbetweenFiveNumbers.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\EvenbetweenFiveNumbers\obj\Debug\net7.0\EvenbetweenFiveNumbers.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\EvenbetweenFiveNumbers\obj\Debug\net7.0\EvenbetweenFiveNumbers.dll
+C:\Users\DCL\source\repos\HelloWorld\EvenbetweenFiveNumbers\obj\Debug\net7.0\refint\EvenbetweenFiveNumbers.dll
+C:\Users\DCL\source\repos\HelloWorld\EvenbetweenFiveNumbers\obj\Debug\net7.0\EvenbetweenFiveNumbers.pdb
+C:\Users\DCL\source\repos\HelloWorld\EvenbetweenFiveNumbers\obj\Debug\net7.0\EvenbetweenFiveNumbers.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\EvenbetweenFiveNumbers\obj\Debug\net7.0\ref\EvenbetweenFiveNumbers.dll

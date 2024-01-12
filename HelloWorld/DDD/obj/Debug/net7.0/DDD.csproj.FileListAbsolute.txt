@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\DDD\bin\Debug\net7.0\DDD.exe
+C:\Users\DCL\source\repos\HelloWorld\DDD\bin\Debug\net7.0\DDD.deps.json
+C:\Users\DCL\source\repos\HelloWorld\DDD\bin\Debug\net7.0\DDD.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\DDD\bin\Debug\net7.0\DDD.dll
+C:\Users\DCL\source\repos\HelloWorld\DDD\bin\Debug\net7.0\DDD.pdb
+C:\Users\DCL\source\repos\HelloWorld\DDD\obj\Debug\net7.0\DDD.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\DDD\obj\Debug\net7.0\DDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\DDD\obj\Debug\net7.0\DDD.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\DDD\obj\Debug\net7.0\DDD.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\DDD\obj\Debug\net7.0\DDD.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\DDD\obj\Debug\net7.0\DDD.dll
+C:\Users\DCL\source\repos\HelloWorld\DDD\obj\Debug\net7.0\refint\DDD.dll
+C:\Users\DCL\source\repos\HelloWorld\DDD\obj\Debug\net7.0\DDD.pdb
+C:\Users\DCL\source\repos\HelloWorld\DDD\obj\Debug\net7.0\DDD.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\DDD\obj\Debug\net7.0\ref\DDD.dll

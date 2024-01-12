@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\Belowthescundry diagonal\bin\Debug\net7.0\Belowthescundry diagonal.exe
+C:\Users\DCL\source\repos\HelloWorld\Belowthescundry diagonal\bin\Debug\net7.0\Belowthescundry diagonal.deps.json
+C:\Users\DCL\source\repos\HelloWorld\Belowthescundry diagonal\bin\Debug\net7.0\Belowthescundry diagonal.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\Belowthescundry diagonal\bin\Debug\net7.0\Belowthescundry diagonal.dll
+C:\Users\DCL\source\repos\HelloWorld\Belowthescundry diagonal\bin\Debug\net7.0\Belowthescundry diagonal.pdb
+C:\Users\DCL\source\repos\HelloWorld\Belowthescundry diagonal\obj\Debug\net7.0\Belowthescundry diagonal.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\Belowthescundry diagonal\obj\Debug\net7.0\Belowthescundry diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\Belowthescundry diagonal\obj\Debug\net7.0\Belowthescundry diagonal.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Belowthescundry diagonal\obj\Debug\net7.0\Belowthescundry diagonal.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\Belowthescundry diagonal\obj\Debug\net7.0\Belowthescundry diagonal.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Belowthescundry diagonal\obj\Debug\net7.0\Belowthescundry diagonal.dll
+C:\Users\DCL\source\repos\HelloWorld\Belowthescundry diagonal\obj\Debug\net7.0\refint\Belowthescundry diagonal.dll
+C:\Users\DCL\source\repos\HelloWorld\Belowthescundry diagonal\obj\Debug\net7.0\Belowthescundry diagonal.pdb
+C:\Users\DCL\source\repos\HelloWorld\Belowthescundry diagonal\obj\Debug\net7.0\Belowthescundry diagonal.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\Belowthescundry diagonal\obj\Debug\net7.0\ref\Belowthescundry diagonal.dll

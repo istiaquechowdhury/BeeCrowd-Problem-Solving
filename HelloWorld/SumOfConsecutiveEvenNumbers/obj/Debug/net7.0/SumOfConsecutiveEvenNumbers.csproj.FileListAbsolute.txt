@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveEvenNumbers\bin\Debug\net7.0\SumOfConsecutiveEvenNumbers.exe
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveEvenNumbers\bin\Debug\net7.0\SumOfConsecutiveEvenNumbers.deps.json
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveEvenNumbers\bin\Debug\net7.0\SumOfConsecutiveEvenNumbers.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveEvenNumbers\bin\Debug\net7.0\SumOfConsecutiveEvenNumbers.dll
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveEvenNumbers\bin\Debug\net7.0\SumOfConsecutiveEvenNumbers.pdb
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveEvenNumbers\obj\Debug\net7.0\SumOfConsecutiveEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveEvenNumbers\obj\Debug\net7.0\SumOfConsecutiveEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveEvenNumbers\obj\Debug\net7.0\SumOfConsecutiveEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveEvenNumbers\obj\Debug\net7.0\SumOfConsecutiveEvenNumbers.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveEvenNumbers\obj\Debug\net7.0\SumOfConsecutiveEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveEvenNumbers\obj\Debug\net7.0\SumOfConsecutiveEvenNumbers.dll
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveEvenNumbers\obj\Debug\net7.0\refint\SumOfConsecutiveEvenNumbers.dll
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveEvenNumbers\obj\Debug\net7.0\SumOfConsecutiveEvenNumbers.pdb
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveEvenNumbers\obj\Debug\net7.0\SumOfConsecutiveEvenNumbers.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\SumOfConsecutiveEvenNumbers\obj\Debug\net7.0\ref\SumOfConsecutiveEvenNumbers.dll

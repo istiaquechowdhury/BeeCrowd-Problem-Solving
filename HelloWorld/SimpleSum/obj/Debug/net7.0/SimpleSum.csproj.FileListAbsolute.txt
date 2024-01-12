@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\SimpleSum\bin\Debug\net7.0\SimpleSum.exe
+C:\Users\DCL\source\repos\HelloWorld\SimpleSum\bin\Debug\net7.0\SimpleSum.deps.json
+C:\Users\DCL\source\repos\HelloWorld\SimpleSum\bin\Debug\net7.0\SimpleSum.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\SimpleSum\bin\Debug\net7.0\SimpleSum.dll
+C:\Users\DCL\source\repos\HelloWorld\SimpleSum\bin\Debug\net7.0\SimpleSum.pdb
+C:\Users\DCL\source\repos\HelloWorld\SimpleSum\obj\Debug\net7.0\SimpleSum.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\SimpleSum\obj\Debug\net7.0\SimpleSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\SimpleSum\obj\Debug\net7.0\SimpleSum.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SimpleSum\obj\Debug\net7.0\SimpleSum.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\SimpleSum\obj\Debug\net7.0\SimpleSum.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\SimpleSum\obj\Debug\net7.0\SimpleSum.dll
+C:\Users\DCL\source\repos\HelloWorld\SimpleSum\obj\Debug\net7.0\refint\SimpleSum.dll
+C:\Users\DCL\source\repos\HelloWorld\SimpleSum\obj\Debug\net7.0\SimpleSum.pdb
+C:\Users\DCL\source\repos\HelloWorld\SimpleSum\obj\Debug\net7.0\SimpleSum.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\SimpleSum\obj\Debug\net7.0\ref\SimpleSum.dll

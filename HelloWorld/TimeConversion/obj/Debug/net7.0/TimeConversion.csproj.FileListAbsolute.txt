@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\TimeConversion\bin\Debug\net7.0\TimeConversion.exe
+C:\Users\DCL\source\repos\HelloWorld\TimeConversion\bin\Debug\net7.0\TimeConversion.deps.json
+C:\Users\DCL\source\repos\HelloWorld\TimeConversion\bin\Debug\net7.0\TimeConversion.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\TimeConversion\bin\Debug\net7.0\TimeConversion.dll
+C:\Users\DCL\source\repos\HelloWorld\TimeConversion\bin\Debug\net7.0\TimeConversion.pdb
+C:\Users\DCL\source\repos\HelloWorld\TimeConversion\obj\Debug\net7.0\TimeConversion.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\TimeConversion\obj\Debug\net7.0\TimeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\TimeConversion\obj\Debug\net7.0\TimeConversion.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\TimeConversion\obj\Debug\net7.0\TimeConversion.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\TimeConversion\obj\Debug\net7.0\TimeConversion.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\TimeConversion\obj\Debug\net7.0\TimeConversion.dll
+C:\Users\DCL\source\repos\HelloWorld\TimeConversion\obj\Debug\net7.0\refint\TimeConversion.dll
+C:\Users\DCL\source\repos\HelloWorld\TimeConversion\obj\Debug\net7.0\TimeConversion.pdb
+C:\Users\DCL\source\repos\HelloWorld\TimeConversion\obj\Debug\net7.0\TimeConversion.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\TimeConversion\obj\Debug\net7.0\ref\TimeConversion.dll

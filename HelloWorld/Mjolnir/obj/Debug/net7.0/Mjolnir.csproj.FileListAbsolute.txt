@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\HelloWorld\Mjolnir\bin\Debug\net7.0\Mjolnir.exe
+C:\Users\DCL\source\repos\HelloWorld\Mjolnir\bin\Debug\net7.0\Mjolnir.deps.json
+C:\Users\DCL\source\repos\HelloWorld\Mjolnir\bin\Debug\net7.0\Mjolnir.runtimeconfig.json
+C:\Users\DCL\source\repos\HelloWorld\Mjolnir\bin\Debug\net7.0\Mjolnir.dll
+C:\Users\DCL\source\repos\HelloWorld\Mjolnir\bin\Debug\net7.0\Mjolnir.pdb
+C:\Users\DCL\source\repos\HelloWorld\Mjolnir\obj\Debug\net7.0\Mjolnir.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HelloWorld\Mjolnir\obj\Debug\net7.0\Mjolnir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\HelloWorld\Mjolnir\obj\Debug\net7.0\Mjolnir.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Mjolnir\obj\Debug\net7.0\Mjolnir.AssemblyInfo.cs
+C:\Users\DCL\source\repos\HelloWorld\Mjolnir\obj\Debug\net7.0\Mjolnir.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HelloWorld\Mjolnir\obj\Debug\net7.0\Mjolnir.dll
+C:\Users\DCL\source\repos\HelloWorld\Mjolnir\obj\Debug\net7.0\refint\Mjolnir.dll
+C:\Users\DCL\source\repos\HelloWorld\Mjolnir\obj\Debug\net7.0\Mjolnir.pdb
+C:\Users\DCL\source\repos\HelloWorld\Mjolnir\obj\Debug\net7.0\Mjolnir.genruntimeconfig.cache
+C:\Users\DCL\source\repos\HelloWorld\Mjolnir\obj\Debug\net7.0\ref\Mjolnir.dll
